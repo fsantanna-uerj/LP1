@@ -13,7 +13,7 @@ Roteiro 1: Usando o GCC
 
 1. Entrar no Linux
     - Logar como "Convidado"
-3. Abrir o Firefox em <https://github.com/fsantanna-uerj/LP1/Labs/lab-01/>
+3. Abrir o Firefox em <https://github.com/fsantanna-uerj/LP1/tree/master/Labs/lab-01>
     - Baixar o arquivo [`hello.c`](hello.c) para a pasta `/tmp/`
 4. Abrir o Terminal
     - Compilar e Executar o programa:
@@ -24,10 +24,10 @@ $ gcc hello.c -o hello.exe
 $ ./hello.exe
 ```
 
-<img width="200" src="linux-01.jpeg"/>
-<img width="200" src="linux-02.jpeg"/>
-<img width="200" src="linux-03.jpeg"/>
-<img width="200" src="linux-04.jpeg"/>
+<img align="left" width="200" src="linux-01.jpeg"/>
+<img align="left" width="200" src="linux-02.jpeg"/>
+<img align="left" width="200" src="linux-03.jpeg"/>
+<img align="left" width="200" src="linux-04.jpeg"/>
 
 ## 2.
 
