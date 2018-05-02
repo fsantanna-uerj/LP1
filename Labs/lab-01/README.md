@@ -24,10 +24,10 @@ $ gcc hello.c -o hello.exe
 $ ./hello.exe
 ```
 
-<img align="right" width="200" src="linux-01.jpeg"/>
-<img align="right" width="200" src="linux-02.jpeg"/>
-<img align="right" width="200" src="linux-03.jpeg"/>
 <img align="right" width="200" src="linux-04.jpeg"/>
+<img align="right" width="200" src="linux-03.jpeg"/>
+<img align="right" width="200" src="linux-02.jpeg"/>
+<img align="right" width="200" src="linux-01.jpeg"/>
 
 Para os demais exercícios, basear-se nos programas da última aula:
 
