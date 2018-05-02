@@ -30,7 +30,8 @@ $ ./hello.exe
 <img align="right" width="200" src="linux-04.jpeg"/>
 
 Para os demais exercícios, basear-se nos programas da última aula:
-    - <https://github.com/fsantanna-uerj/LP1/tree/master/Code/02>
+
+<https://github.com/fsantanna-uerj/LP1/tree/master/Code/02>
 
 ## 2.
 
