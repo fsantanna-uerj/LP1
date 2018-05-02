@@ -1,9 +1,4 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></p>        
-<style>
-#images {
-    white-space: nowrap;
-}
-</style>
 
 Roteiro 1: Usando o GCC
 =======================
@@ -16,17 +11,10 @@ Roteiro 1: Usando o GCC
 
 ## 1.
 
-<div id="images">
-<img width="400" src="linux-01.jpeg" align="right"/>
-<img width="400" src="linux-02.jpeg" align="right"/>
-<img width="400" src="linux-03.jpeg" align="right"/>
-<img width="400" src="linux-04.jpeg" align="right"/>
-</div>
-
 1. Entrar no Linux
     - Logar como "Convidado"
 3. Abrir o Firefox em <https://github.com/fsantanna-uerj/LP1/Labs/lab-01/>
-    - Baixar o arquivo [hello.c] para a pasta `/tmp/`
+    - Baixar o arquivo [`hello.c`](hello.c) para a pasta `/tmp/`
 4. Abrir o Terminal
     - Compilar e Executar o programa:
 
@@ -35,6 +23,11 @@ $ cd /tmp
 $ gcc hello.c -o hello.exe
 $ ./hello.exe
 ```
+
+<img width="100" src="linux-01.jpeg" align="right"/>
+<img width="100" src="linux-02.jpeg" align="right"/>
+<img width="100" src="linux-03.jpeg" align="right"/>
+<img width="100" src="linux-04.jpeg" align="right"/>
 
 ## 2.
 
