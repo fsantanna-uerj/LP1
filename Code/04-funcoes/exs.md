@@ -3,8 +3,8 @@
 Crie uma função `eh_primo` que recebe um inteiro `n` e retorna se ele é primo ou não.
 
 Dicas:
-- A operação % calcula o resto entre dois valores, ex.:
-    11 % 4 = 3
+- A operação % calcula o resto entre dois valores.
+    - `11 % 4 = 3`
 - Em C, tipicamente usamos 1 e 0 para representar verdadeiro e falso, respectivamente.
 
 # Exercício 2
