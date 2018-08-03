@@ -19,16 +19,21 @@ void exibe (struct Caixa* caixa) {
     } while (caixa != cabeca);
 }
 
-int retira (struct Caixa* caixa, int n) {
+int retira (int n) {
     if (cabeca == NULL) {
         return 0;
     }
+    struct Caixa* caixa = cabeca;
     do {
         if (n == caixa->valor) {
-            caixa->ante->prox = caixa->prox;
-            caixa->prox->ante = caixa->ante;
-            if (caixa == cabeca) {
-                cabeca = caixa->prox;
+            if (caixa->prox == caixa) {
+                cabeca = NULL;
+            } else {
+                caixa->ante->prox = caixa->prox;
+                caixa->prox->ante = caixa->ante;
+                if (caixa == cabeca) {
+                    cabeca = caixa->prox;
+                }
             }
             free(caixa);
             return 1;
@@ -58,8 +63,14 @@ int main (void) {
 
     exibe(cabeca);
 
-    printf("retira 5: %d\n", retira(cabeca,5));
-    printf("retira 1: %d\n", retira(cabeca,1));
+    printf("retira 5: %d\n", retira(5));
+    printf("retira 1: %d\n", retira(1));
+
+    exibe(cabeca);
+
+    printf("retira 2: %d\n", retira(2));
+    printf("retira 3: %d\n", retira(3));
+    printf("retira 4: %d\n", retira(4));
 
     exibe(cabeca);
 
