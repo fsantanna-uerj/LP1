@@ -1,19 +1,19 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></p>        
 
-Roteiro 1: Usando o GCC
-=======================
+Exercício 2.1: Usando o GCC
+===========================
 
 - Ao final da aula, submeter pelo GitHub:
-    - criar uma nova pasta, ex., `lab-01/`
+    - criar uma nova pasta, ex., `ex-2.1/`
     - para cada item:
-        - submeter o código fonte, ex., `lab-01/ex-01.c`
-        - submeter uma imagem com a execução, ex., `lab-01/ex-01.png`
+        - submeter o código fonte, ex., `ex-2.1/01.c`
+        - submeter uma imagem com a execução, ex., `ex-2.1/01.png`
 
 ## 1.
 
 1. Entrar no Linux
     - Logar como "Convidado"
-3. Abrir o Firefox em <https://github.com/fsantanna-uerj/LP1/tree/master/Labs/lab-01>
+3. Abrir o Firefox em <https://github.com/fsantanna-uerj/LP1/tree/master/Exs/ex-2.1>
     - Baixar o arquivo [`hello.c`](hello.c) para a pasta `/tmp/`
 4. Abrir o Terminal
     - Compilar e Executar o programa:
