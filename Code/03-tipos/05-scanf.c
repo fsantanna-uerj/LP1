@@ -14,6 +14,7 @@ int main (void) {
     char c = 0;
     char d = 0;
     scanf("%d", &a);
+    //scanf("%hhd", &a);
     printf("%d %d %d %d\n", a, b, c, d);
     return 0;
 }
