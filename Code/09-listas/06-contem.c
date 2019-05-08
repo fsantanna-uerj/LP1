@@ -23,7 +23,7 @@ int contem (struct Caixa* caixa, int n) {
     return 0;
 }
 
-int main (void) {
+void main (void) {
     struct Caixa* cabeca = NULL;
     struct Caixa* cauda  = NULL;
 
@@ -47,6 +47,4 @@ int main (void) {
 
     printf("contem 5: %d\n", contem(cabeca,5));
     printf("contem 1: %d\n", contem(cabeca,1));
-
-    return 0;
 }

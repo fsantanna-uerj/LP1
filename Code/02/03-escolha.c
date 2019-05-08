@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main (void) {
+void main (void) {
   int num;
   printf("Escolha entre 1-9: ");
   scanf("%d", &num);
@@ -9,5 +9,4 @@ int main (void) {
   } else {
     printf("Voce errou!\n");
   }
-  return 0;
 }

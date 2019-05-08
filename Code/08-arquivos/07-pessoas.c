@@ -6,7 +6,7 @@ struct Pessoa {
     char nome[26];
 };
 
-int main (void) {
+void main (void) {
     struct Pessoa pessoas[100];
 
     int N;
@@ -29,5 +29,4 @@ int main (void) {
     }
 
     fclose(f);
-    return 0;
 }

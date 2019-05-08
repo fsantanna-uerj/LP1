@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main (void) {
+void main (void) {
     int vet[5];
     int N = 0;
     int i;
@@ -27,6 +27,4 @@ int main (void) {
         printf("%d\n", vet[i]);
     }
     printf("---\n");
-
-    return 0;
 }

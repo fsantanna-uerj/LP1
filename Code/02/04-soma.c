@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main (void) {
+void main (void) {
   int soma = 0;
   int num;
   printf("Escolha um numero: ");
@@ -10,5 +10,4 @@ int main (void) {
     num = (num - 1);
   }
   printf("somou %d\n", soma);
-  return 0;
 }

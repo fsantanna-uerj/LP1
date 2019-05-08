@@ -6,7 +6,7 @@ struct Data {
     char ano;
 };
 
-int main (void) {
+void main (void) {
     int v1;
     char v2[13];
     struct Data v3;
@@ -21,5 +21,4 @@ int main (void) {
     fclose(f);
 
     printf("%X %s (%d/%d/%d)\n", v1, v2, v3.dia, v3.mes, v3.ano);
-    return 0;
 }

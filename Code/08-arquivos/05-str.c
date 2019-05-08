@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main (void) {
+void main (void) {
     FILE* f = fopen("arq-02.txt", "w");
 
     char str1[25] = "Testando 123...\n";
@@ -10,5 +10,4 @@ int main (void) {
     fputs(str2, f);
 
     fclose(f);
-    return 0;
 }

@@ -2,10 +2,9 @@
 
 #include <stdio.h>
 
-int main (void) {
+void main (void) {
   int num;
   printf("Escolha um numero: ");
   scanf("%d", &num);
   printf("Voce escolheu %d\n", num);
-  return 0;
 }

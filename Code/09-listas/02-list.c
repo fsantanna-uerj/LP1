@@ -5,7 +5,7 @@ struct Caixa {
     struct Caixa* prox;
 };
 
-int main (void) {
+void main (void) {
     struct Caixa c4 = { 5, NULL };
     struct Caixa c3 = { 7, &c4 };
     struct Caixa c2 = { 9, &c3 };
@@ -14,6 +14,4 @@ int main (void) {
 
     printf("%d %d %d %d %d\n", c0.valor, c0.prox->valor, c0.prox->prox->valor,
                                c0.prox->prox->prox->valor, c0.prox->prox->prox->prox->valor);
-
-    return 0;
 }

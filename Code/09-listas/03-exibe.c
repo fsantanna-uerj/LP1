@@ -12,7 +12,7 @@ void exibe (struct Caixa* caixa) {
     }
 }
 
-int main (void) {
+void main (void) {
     struct Caixa c4 = { 5, NULL };
     struct Caixa c3 = { 7, &c4 };
     struct Caixa c2 = { 9, &c3 };
@@ -23,6 +23,4 @@ int main (void) {
                                c0.prox->prox->prox->valor, c0.prox->prox->prox->prox->valor);
 
     exibe(&c0);
-
-    return 0;
 }

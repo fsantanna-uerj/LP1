@@ -5,7 +5,7 @@ int celsius_para_fahrenheit (int c) {
     return f;
 }
 
-int main (void) {
+void main (void) {
     int C;
     scanf("%d", &C);
     int F = celsius_para_fahrenheit(C);

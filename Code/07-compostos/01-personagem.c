@@ -6,7 +6,7 @@ struct Personagem {
     int experiencia;
 };
 
-int main (void) {
+void main (void) {
     struct Personagem p1;
     p1.forca       = 10;
     p1.energia     = 100;
@@ -14,10 +14,10 @@ int main (void) {
 
     struct Personagem p2;
     p2.forca       = 13;
-    p2.energia     = 150;
+    //p2.energia     = 150;
     p2.experiencia = 200;
 
-    printf("> %d %d\n", p1.forca, p2.forca);
+    int k;
 
-    return 0;
+    printf("P2> %d %d %d\n", p2.forca, p2.energia, k);
 }

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main (void) {
+void main (void) {
     int xs[4];
     int ys[4];
     printf("%p %p\n", &xs, &ys);
@@ -9,5 +9,4 @@ int main (void) {
 
     *(xs+3) = 10;   // xs[3]=10
     printf("%d\n", xs[3]);
-    return 0;
 }

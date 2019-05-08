@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main (void) {
+void main (void) {
 #if 0
     unsigned char uc = 0;
     while (1) {
@@ -20,5 +20,4 @@ int main (void) {
         sc = sc + 1;
     }
 #endif
-    return 0;
 }

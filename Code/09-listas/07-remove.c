@@ -43,7 +43,7 @@ int retira (int n) {
     return 0;
 }
 
-int main (void) {
+void main (void) {
     int n;
     scanf("%d", &n);
     while (n != -1) {
@@ -73,6 +73,4 @@ int main (void) {
     printf("retira 4: %d\n", retira(4));
 
     exibe(cabeca);
-
-    return 0;
 }

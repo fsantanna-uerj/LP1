@@ -8,7 +8,7 @@ struct Personagem {
     int  experiencia;
 };
 
-int main (void) {
+void main (void) {
     struct Personagem p1;
     struct Personagem p2;
 
@@ -17,6 +17,4 @@ int main (void) {
     strncpy(p2.nome, p1.nome, strlen(p1.nome));
 
     printf("> %s %s\n", p1.nome, p2.nome);
-
-    return 0;
 }

@@ -1,10 +1,12 @@
+#include <string.h>
 #include <stdio.h>
 
-int main (void) {
-    int vs[2][3] = { {1,2,3}, {4,5,6} };
-    printf("%d %d\n", vs[0][1], vs[1][0]);
-    printf("%p %p\n", &vs, &vs[0][0]);
-    printf("%p\n",         &vs[0][1]);
-    printf("%p\n",         &vs[1][0]);
-    return 0;
+void main (void) {
+
+    char s1[] = {0x97,077,99,0}; //"abc";
+    char s2[] = "def";
+
+    printf("%s/%s\n", s1, s2);
+    printf("%ld\n", strlen(s1));
+    printf("%c %c %c %c %c\n", s1[0], s1[1], s1[2], s1[3], s1[4]);
 }

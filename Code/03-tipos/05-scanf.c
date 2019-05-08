@@ -8,7 +8,7 @@
  */
 
 
-int main (void) {
+void main (void) {
     char a = 0;
     char b = 0;
     char c = 0;
@@ -16,16 +16,14 @@ int main (void) {
     scanf("%d", &a);
     //scanf("%hhd", &a);
     printf("%d %d %d %d\n", a, b, c, d);
-    return 0;
 }
 
 #if 0
-int main (void) {
+void main (void) {
     int  v;
     char a=0, b=0, c=0, d=0;
     scanf("%d", &v);
     a = v;
     printf("%d %d %d %d\n", a, b, c, d);
-    return 0;
 }
 #endif

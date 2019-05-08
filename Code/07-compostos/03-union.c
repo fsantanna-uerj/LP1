@@ -7,7 +7,7 @@ union Identidade  {
     char nome[256];
 };
 
-int main (void) {
+void main (void) {
     union Identidade i1;
     i1.ifp = 117766118;
 
@@ -17,7 +17,5 @@ int main (void) {
     union Identidade i3;
     strcpy(i3.nome, "Francisco Sant'Anna");
 
-    printf("> %d %d %s\n", i1.ifp, i2.cpf, i3.nome);
-
-    return 0;
+    printf("> %s %d %s\n", i1.nome, i2.cpf, i3.nome);
 }

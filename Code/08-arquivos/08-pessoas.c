@@ -6,7 +6,7 @@ struct Pessoa {
     char nome[26];
 };
 
-int main (void) {
+void main (void) {
     struct Pessoa pessoas[100];
 
     FILE* f = fopen("arq-07.bin", "rb");
@@ -31,6 +31,5 @@ int main (void) {
     for (i=0; i<N; i++) {
         printf("Pessoa %d %s\n", pessoas[i].idade, pessoas[i].nome);
     }
-    return 0;
 }
 
