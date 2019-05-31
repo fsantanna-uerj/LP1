@@ -60,7 +60,7 @@ struct Pessoa {
 
 ## 7.
 
-Considere o exercício `7`.
+Considere o exercício `6`.
 
 - Qual é a relação entre o tamanho do nome de uma `Pessoa` e o tamanho final do
   arquivo gravado?
