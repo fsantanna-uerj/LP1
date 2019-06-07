@@ -3,7 +3,7 @@
 
 struct Pessoa {
     int  idade;
-    char nome[26];
+    char nome[51];
 };
 
 void main (void) {
