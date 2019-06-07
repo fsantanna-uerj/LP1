@@ -29,6 +29,29 @@ Dentro das funções, use a notação de ponteiros em vez da de índices (`*` vs
 
 ## 2.
 
+- Crie um vetor `vet` de 5 posições.
+- Leia 5 números e guarde-os em `vet`.
+- Exiba todos os números de `vet`.
+- Leia um outro número `I`.
+- Remova o valor de `vet` no índice `I`.
+    - Mantenha o vetor sem buracos!
+    - As posições vazias devem ser preenchidas com `0`.
+
+Exemplo:
+
+```
+| 90 | 55 | 15 | 70 | 10 |
+```
+
+Após remover `I=2`:
+
+```
+| 90 | 55 | 70 | 10 |  0 |
+```
+
+
+## 3.
+
 - Crie uma função preenche que receba um array bidimensional `arr` de inteiros
   com uma dimensão fixa (`LxC`), e preencha o array com `l*c` números lidos do
   teclado, ex:

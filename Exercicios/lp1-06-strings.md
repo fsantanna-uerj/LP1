@@ -3,7 +3,7 @@
 Slide 6 - Strings
 =================
 
-# 1.
+## 1.
 
 - Implemente a função `tamanho`:
     - Recebe uma string
@@ -15,7 +15,7 @@ int tamanho (char* str);
 
 Obviamente, não use a função `strlen`.
 
-# 2.
+## 2.
 
 - Implemente a função `concatena`:
     - Recebe uma string de destino
