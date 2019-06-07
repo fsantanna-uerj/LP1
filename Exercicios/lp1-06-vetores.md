@@ -1,0 +1,48 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></p>        
+
+Slide 6 - Vetores
+=================
+
+## 1.
+
+- Crie um vetor de tamanho máximo fixo na função main, ex:
+
+```
+int vec[100];
+```
+
+- Crie uma função preenche que receba um vetor `xs` de inteiros, uma quantidade
+ `n` e preencha o vetor `xs` com `n` números lidos do teclado:
+
+```
+void preenche (int* xs, int n);
+```
+
+- Crie uma função `media` que receba um vetor `xs`, a quantidade de elementos
+  `n` no vetor `xs` e retorne a média entre todos os valores do vetor.
+
+Dentro das funções, use a notação de ponteiros em vez da de índices (`*` vs
+`[]`)
+
+- Crie um programa que leia um número e preencha o vetor `vec` com essa
+  quantidade de elementos e em seguida calcule a média dos valores do vetor.
+
+## 2.
+
+- Crie uma função preenche que receba um array bidimensional `arr` de inteiros
+  com uma dimensão fixa (`LxC`), e preencha o array com `l*c` números lidos do
+  teclado, ex:
+
+```
+void preenche (int arr[L][C], int l, int c);
+```
+
+- Crie uma função `media` que receba um array bidimensional `arr`, a quantidade
+  de linhas `l`, a quantidade de colunas `c`, e retorne a média entre todos os
+  valores do array, ex:
+
+```
+float media (int arr[L][C], int l, int c);
+```
+
+`L` e `C` devem ser quaisquer valores constantes predefinidos.
