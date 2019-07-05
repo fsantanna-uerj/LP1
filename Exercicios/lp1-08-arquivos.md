@@ -45,9 +45,9 @@ Considere a `struct` a seguir:
 
 ```
 struct Pessoa {
-    int idade;
-    int nome[64];
-    int peso;
+    int  idade;
+    char nome[64];
+    int  peso;
 };
 ```
 
