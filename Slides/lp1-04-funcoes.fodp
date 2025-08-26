@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1132</meta:editing-cycles><meta:editing-duration>P59DT1H9M12S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2025-08-26T14:14:38.472912681</dc:date><meta:document-statistic meta:object-count="101"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1133</meta:editing-cycles><meta:editing-duration>P59DT1H41M32S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2025-08-26T14:46:59.368873972</dc:date><meta:document-statistic meta:object-count="101"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-313</config:config-item>
@@ -2023,16 +2023,16 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr12" draw:text-style-name="P20" draw:layer="layout" svg:width="25.199cm" svg:height="4.78cm" svg:x="1.501cm" svg:y="4.805cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">Linguagens de Programação 1</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Lingua</text:span><text:span text:style-name="T2">gens </text:span><text:span text:style-name="T2">de </text:span><text:span text:style-name="T2">Progra</text:span><text:span text:style-name="T2">mação </text:span><text:span text:style-name="T2">1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P22" draw:layer="layout" svg:width="15.742cm" svg:height="5.168cm" svg:x="8.749cm" svg:y="13.572cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T3">Francisco Sant&apos;Anna</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T3">Francisco </text:span><text:span text:style-name="T3">Sant&apos;Anna</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T4">Sala 6020-B</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T5">francisco@ime.uerj.br</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T5">francisco@ime</text:span><text:span text:style-name="T5">.uerj.br</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T6"/></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T7">http://github.com/fsantanna-uerj/LP1</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T7">http://</text:span><text:span text:style-name="T7">github.com/</text:span><text:span text:style-name="T7">fsantanna-</text:span><text:span text:style-name="T7">uerj/LP1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
@@ -2902,7 +2902,7 @@
     <draw:frame presentation:style-name="pr19" draw:text-style-name="P32" draw:layer="layout" svg:width="12.727cm" svg:height="2.687cm" svg:x="13.99cm" svg:y="5.967cm">
      <draw:text-box>
       <text:p text:style-name="P31"><text:span text:style-name="T16">C = </text:span><text:span text:style-name="T17">input</text:span><text:span text:style-name="T16">()</text:span></text:p>
-      <text:p text:style-name="P31"><text:span text:style-name="T16">F = celsius_para_fahrenheit(C)</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T16">F = </text:span><text:span text:style-name="T16">celsius_para_f</text:span><text:span text:style-name="T16">ahrenheit(C)</text:span></text:p>
       <text:p text:style-name="P31"><text:span text:style-name="T17">print</text:span><text:span text:style-name="T16">(F)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -2969,7 +2969,7 @@
      <text:p text:style-name="P35"><text:span text:style-name="T18">nome da função</text:span></text:p>
     </draw:polygon>
     <draw:polygon draw:style-name="gr6" draw:text-style-name="P36" xml:id="id28" draw:id="id28" draw:layer="layout" svg:width="9.571cm" svg:height="1.178cm" svg:x="11.546cm" svg:y="6.821cm" svg:viewBox="0 0 9572 1179" draw:points="4788,1179 0,1179 0,0 9572,0 9572,1179">
-     <text:p text:style-name="P35"><text:span text:style-name="T18">argumentos: tipos e nomes</text:span></text:p>
+     <text:p text:style-name="P35"><text:span text:style-name="T18">parâmetros: tipos e nomes</text:span></text:p>
     </draw:polygon>
     <draw:polygon draw:style-name="gr6" draw:text-style-name="P36" xml:id="id34" draw:id="id34" draw:layer="layout" svg:width="6.444cm" svg:height="1.178cm" svg:x="18.305cm" svg:y="14.735cm" svg:viewBox="0 0 6445 1179" draw:points="3224,1179 0,1179 0,0 6445,0 6445,1179">
      <text:p text:style-name="P35"><text:span text:style-name="T18">corpo da função</text:span></text:p>
