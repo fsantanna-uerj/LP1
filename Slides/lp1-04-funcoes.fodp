@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1133</meta:editing-cycles><meta:editing-duration>P59DT1H41M32S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2025-08-26T14:46:59.368873972</dc:date><meta:document-statistic meta:object-count="101"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1134</meta:editing-cycles><meta:editing-duration>P59DT1H42M18S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2025-09-01T10:18:07.352156195</dc:date><meta:document-statistic meta:object-count="101"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-313</config:config-item>
@@ -29,15 +29,15 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">6</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">8</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-313</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-1082</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">30284</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-337</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-433</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">28889</config:config-item>
      <config:config-item config:name="VisibleAreaHeight" config:type="int">21721</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
@@ -121,7 +121,7 @@
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
    <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">oAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAwQAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">oAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAwQAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
    <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SlidesPerHandout" config:type="short">6</config:config-item>
@@ -136,9 +136,9 @@
   </office:script>
  </office:scripts>
  <office:font-face-decls>
-  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="modern" style:font-pitch="variable"/>
   <style:font-face style:name="Arial1" svg:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Arial2" svg:font-family="Arial" style:font-family-generic="modern" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial2" svg:font-family="Arial" style:font-pitch="variable"/>
   <style:font-face style:name="Arial3" svg:font-family="Arial" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Bitstream Vera Sans" svg:font-family="&apos;Bitstream Vera Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Courier" svg:font-family="Courier" style:font-family-generic="modern" style:font-pitch="fixed"/>
@@ -151,14 +151,14 @@
   <style:font-face style:name="HG Mincho Light J" svg:font-family="&apos;HG Mincho Light J&apos;" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="Nimbus Roman No9 L" svg:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman"/>
-  <style:font-face style:name="Nimbus Roman No9 L1" svg:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Nimbus Roman No9 L" svg:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Nimbus Roman No9 L1" svg:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman"/>
   <style:font-face style:name="Nimbus Roman No9 L2" svg:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans Mono CJK JP" svg:font-family="&apos;Noto Sans Mono CJK JP&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
-  <style:font-face style:name="Times New Roman1" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman1" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
   <draw:gradient draw:name="Filled" draw:style="linear" draw:start-color="#ffffff" draw:end-color="#cccccc" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
@@ -336,13 +336,13 @@
    </office:binary-data>
   </draw:fill-image>
   <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
-  <draw:marker draw:name="Arrowheads_20_1" draw:display-name="Arrowheads 1" svg:viewBox="0 826 1131 754" svg:d="M566 826l-566 754 114-85 136-68 148-46 161-17 161 13 153 46 140 68 118 89z"/>
+  <draw:marker draw:name="Arrowheads_20_1" draw:display-name="Arrowheads 1" svg:viewBox="0 0 1131 754" svg:d="M566 0l-566 754 114-85 136-68 148-46 161-17 161 13 153 46 140 68 118 89z"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#000000" draw:fill-color="#99ccff" fo:wrap-option="no-wrap"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman1" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-name-asian="Arial" style:font-size-asian="24pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Arial" style:font-size-complex="24pt" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-name-asian="Arial2" style:font-size-asian="24pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Arial2" style:font-size-complex="24pt" style:language-complex="zxx" style:country-complex="none"/>
   </style:default-style>
   <style:style style:name="standard" style:family="graphic">
    <style:graphic-properties draw:stroke="solid" svg:stroke-width="0cm" svg:stroke-color="#000000" draw:marker-start-width="0.3cm" draw:marker-start-center="false" draw:marker-end-width="0.3cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#99ccff" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" draw:shadow="hidden" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:shadow-color="#808080">
@@ -390,7 +390,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="objectwithoutfill" style:family="graphic">
    <style:graphic-properties draw:fill="none"/>
@@ -674,7 +674,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="Default_5f_3" style:display-name="Default_3" style:family="graphic">
    <style:graphic-properties draw:stroke="solid" svg:stroke-width="0cm" svg:stroke-color="#000000" draw:marker-start-width="0.3cm" draw:marker-start-center="false" draw:marker-end-width="0.3cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#99ccff" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" draw:shadow="hidden" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:shadow-color="#808080">
@@ -722,7 +722,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="Default_5f_6" style:display-name="Default_6" style:family="graphic">
    <style:graphic-properties draw:stroke="solid" svg:stroke-width="0cm" svg:stroke-color="#000000" draw:marker-start-width="0.3cm" draw:marker-start-center="false" draw:marker-end-width="0.3cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#99ccff" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" draw:shadow="hidden" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:shadow-color="#808080">
@@ -770,7 +770,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="Default_5f_4" style:display-name="Default_4" style:family="graphic"/>
   <style:style style:name="oranssi-background" style:family="presentation">
@@ -825,7 +825,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="oranssi-outline1" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none">
@@ -873,39 +873,39 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="1.2cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.5cm" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="oranssi-outline2" style:family="presentation" style:parent-style-name="oranssi-outline1">
    <style:paragraph-properties fo:margin-left="2.4cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.4cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
   </style:style>
   <style:style style:name="oranssi-outline3" style:family="presentation" style:parent-style-name="oranssi-outline2">
    <style:paragraph-properties fo:margin-left="3.6cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.3cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="24pt" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="24pt" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
   </style:style>
   <style:style style:name="oranssi-outline4" style:family="presentation" style:parent-style-name="oranssi-outline3">
    <style:paragraph-properties fo:margin-left="4.8cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.2cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="oranssi-outline5" style:family="presentation" style:parent-style-name="oranssi-outline4">
    <style:paragraph-properties fo:margin-left="6cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.1cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="oranssi-outline6" style:family="presentation" style:parent-style-name="oranssi-outline5">
    <style:paragraph-properties fo:margin-left="7.2cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.1cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="oranssi-outline7" style:family="presentation" style:parent-style-name="oranssi-outline6">
    <style:paragraph-properties fo:margin-left="8.4cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.1cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="oranssi-outline8" style:family="presentation" style:parent-style-name="oranssi-outline7">
    <style:paragraph-properties fo:margin-left="9.6cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.1cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="oranssi-outline9" style:family="presentation" style:parent-style-name="oranssi-outline8">
    <style:paragraph-properties fo:margin-left="10.8cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.1cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="oranssi-subtitle" style:family="presentation">
    <style:graphic-properties draw:stroke="solid" draw:fill="none" draw:textarea-vertical-align="middle">
@@ -953,7 +953,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="oranssi-title" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#f57900" draw:fill-image-width="0cm" draw:fill-image-height="0cm" draw:textarea-vertical-align="middle">
@@ -1001,7 +1001,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:text-align="center"/>
-   <style:text-properties fo:color="#f57900" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Bitstream Vera Sans" fo:font-family="&apos;Bitstream Vera Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties fo:color="#f57900" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Bitstream Vera Sans" fo:font-family="&apos;Bitstream Vera Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="Human-background" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="bitmap" draw:fill-image-name="human_5f_backgound_5f_neutral" draw:fill-image-width="100%" draw:fill-image-height="100%"/>
@@ -1277,9 +1277,6 @@
   <style:style style:name="dp4" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
   </style:style>
-  <style:style style:name="dp5" style:family="drawing-page">
-   <style:drawing-page-properties presentation:visibility="hidden" presentation:background-visible="true" presentation:background-objects-visible="true" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
-  </style:style>
   <style:style style:name="gr1" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="false" fo:min-height="1.049cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
@@ -1517,7 +1514,6 @@
   </style:style>
   <style:style style:name="P31" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0.254cm" fo:margin-right="0.254cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:text-align="start" fo:text-indent="0cm"/>
-   <style:text-properties fo:font-size="20pt"/>
   </style:style>
   <style:style style:name="P32" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff"/>
@@ -1525,19 +1521,11 @@
    <style:text-properties style:font-name="Courier 10 Pitch1" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="P33" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0.254cm" fo:margin-right="0.254cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:text-align="start" fo:text-indent="0cm"/>
-   <style:text-properties fo:font-size="20pt" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0.254cm" fo:margin-right="0.254cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:text-align="start" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
    <style:text-properties style:font-name="Courier 10 Pitch1" fo:font-size="20pt" fo:font-weight="normal" style:font-size-asian="20pt" style:font-weight-asian="normal" style:font-size-complex="20pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph">
-   <style:paragraph-properties fo:text-align="center"/>
-   <style:text-properties fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph">
+  <style:style style:name="P34" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#99ccff"/>
    <style:paragraph-properties fo:text-align="center" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
@@ -1606,7 +1594,7 @@
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
-   <style:text-properties style:font-name="Nimbus Roman No9 L"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L1"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:bullet-char="●">
@@ -1818,7 +1806,6 @@
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="6.616cm" svg:height="4.962cm" svg:x="21.109cm" svg:y="13.975cm"/>
   </style:handout-master>
   <style:master-page style:name="oranssi" style:page-layout-name="PM1" draw:style-name="dp1">
-   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <draw:rect presentation:style-name="pr1" draw:text-style-name="P5" draw:layer="backgroundobjects" svg:width="28cm" svg:height="10.5cm" svg:x="0cm" svg:y="0cm">
     <text:p/>
    </draw:rect>
@@ -1892,7 +1879,6 @@
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM2">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:page-thumbnail presentation:style-name="oranssi-title" draw:layer="backgroundobjects" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" presentation:class="page"/>
     <draw:frame presentation:style-name="oranssi-notes" draw:layer="backgroundobjects" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
@@ -2023,16 +2009,16 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr12" draw:text-style-name="P20" draw:layer="layout" svg:width="25.199cm" svg:height="4.78cm" svg:x="1.501cm" svg:y="4.805cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">Lingua</text:span><text:span text:style-name="T2">gens </text:span><text:span text:style-name="T2">de </text:span><text:span text:style-name="T2">Progra</text:span><text:span text:style-name="T2">mação </text:span><text:span text:style-name="T2">1</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Linguagens </text:span><text:span text:style-name="T2">de </text:span><text:span text:style-name="T2">Programaç</text:span><text:span text:style-name="T2">ão 1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P22" draw:layer="layout" svg:width="15.742cm" svg:height="5.168cm" svg:x="8.749cm" svg:y="13.572cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T3">Francisco </text:span><text:span text:style-name="T3">Sant&apos;Anna</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T4">Sala 6020-B</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T5">francisco@ime</text:span><text:span text:style-name="T5">.uerj.br</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T5">francisco@ime.uerj.b</text:span><text:span text:style-name="T5">r</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T6"/></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T7">http://</text:span><text:span text:style-name="T7">github.com/</text:span><text:span text:style-name="T7">fsantanna-</text:span><text:span text:style-name="T7">uerj/LP1</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T7">http://github.com/</text:span><text:span text:style-name="T7">fsantanna-uerj/LP1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
@@ -2902,7 +2888,7 @@
     <draw:frame presentation:style-name="pr19" draw:text-style-name="P32" draw:layer="layout" svg:width="12.727cm" svg:height="2.687cm" svg:x="13.99cm" svg:y="5.967cm">
      <draw:text-box>
       <text:p text:style-name="P31"><text:span text:style-name="T16">C = </text:span><text:span text:style-name="T17">input</text:span><text:span text:style-name="T16">()</text:span></text:p>
-      <text:p text:style-name="P31"><text:span text:style-name="T16">F = </text:span><text:span text:style-name="T16">celsius_para_f</text:span><text:span text:style-name="T16">ahrenheit(C)</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T16">F = </text:span><text:span text:style-name="T16">celsius_para_fahrenheit</text:span><text:span text:style-name="T16">(C)</text:span></text:p>
       <text:p text:style-name="P31"><text:span text:style-name="T17">print</text:span><text:span text:style-name="T16">(F)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -2939,8 +2925,7 @@
       </anim:par>
      </anim:seq>
     </anim:par>
-    <presentation:notes draw:style-name="dp4">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <presentation:notes draw:style-name="dp3">
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="6" presentation:class="page"/>
      <draw:frame presentation:style-name="pr15" draw:text-style-name="P29" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
@@ -2954,50 +2939,50 @@
       <text:p>Funções em C</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr21" draw:text-style-name="P34" draw:layer="layout" svg:width="22.081cm" svg:height="5.236cm" svg:x="2.96cm" svg:y="8.887cm">
+    <draw:frame presentation:style-name="pr21" draw:text-style-name="P33" draw:layer="layout" svg:width="22.081cm" svg:height="5.236cm" svg:x="2.96cm" svg:y="8.887cm">
      <draw:text-box>
-      <text:p text:style-name="P33"><text:span text:style-name="T14">float</text:span><text:span text:style-name="T15"> invest (</text:span><text:span text:style-name="T14">float</text:span><text:span text:style-name="T15"> ini, </text:span><text:span text:style-name="T14">float</text:span><text:span text:style-name="T15"> juros, </text:span><text:span text:style-name="T14">int</text:span><text:span text:style-name="T15"> anos) {</text:span></text:p>
-      <text:p text:style-name="P33"><text:span text:style-name="T15"><text:s text:c="4"/></text:span><text:span text:style-name="T14">float</text:span><text:span text:style-name="T15"> pct = 1 + juros;</text:span></text:p>
-      <text:p text:style-name="P33"><text:span text:style-name="T15"><text:s text:c="4"/></text:span><text:span text:style-name="T14">return</text:span><text:span text:style-name="T15"> ini * pow(pct,anos);</text:span></text:p>
-      <text:p text:style-name="P33"><text:span text:style-name="T15">}</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T14">float</text:span><text:span text:style-name="T15"> invest (</text:span><text:span text:style-name="T14">float</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T15">ini, </text:span><text:span text:style-name="T14">float</text:span><text:span text:style-name="T15"> juros, </text:span><text:span text:style-name="T14">int</text:span><text:span text:style-name="T15"> anos) {</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T15"><text:s text:c="4"/></text:span><text:span text:style-name="T14">float</text:span><text:span text:style-name="T15"> pct = 1 + </text:span><text:span text:style-name="T15">juros;</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T15"><text:s text:c="4"/></text:span><text:span text:style-name="T14">return</text:span><text:span text:style-name="T15"> ini * </text:span><text:span text:style-name="T15">pow(pct,anos);</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T15">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:polygon draw:style-name="gr6" draw:text-style-name="P36" xml:id="id32" draw:id="id32" draw:layer="layout" svg:width="5.181cm" svg:height="1.178cm" svg:x="0.384cm" svg:y="6.788cm" svg:viewBox="0 0 5182 1179" draw:points="2592,1179 0,1179 0,0 5182,0 5182,1179">
-     <text:p text:style-name="P35"><text:span text:style-name="T18">tipo de retorno</text:span></text:p>
+    <draw:polygon draw:style-name="gr6" draw:text-style-name="P34" xml:id="id32" draw:id="id32" draw:layer="layout" svg:width="5.181cm" svg:height="1.178cm" svg:x="0.384cm" svg:y="6.788cm" svg:viewBox="0 0 5182 1179" draw:points="2592,1179 0,1179 0,0 5182,0 5182,1179">
+     <text:p text:style-name="P27"><text:span text:style-name="T18">tipo de retorno</text:span></text:p>
     </draw:polygon>
-    <draw:polygon draw:style-name="gr6" draw:text-style-name="P36" xml:id="id26" draw:id="id26" draw:layer="layout" svg:width="5.565cm" svg:height="1.178cm" svg:x="4.592cm" svg:y="5.125cm" svg:viewBox="0 0 5566 1179" draw:points="2784,1179 0,1179 0,0 5566,0 5566,1179">
-     <text:p text:style-name="P35"><text:span text:style-name="T18">nome da função</text:span></text:p>
+    <draw:polygon draw:style-name="gr6" draw:text-style-name="P34" xml:id="id26" draw:id="id26" draw:layer="layout" svg:width="5.565cm" svg:height="1.178cm" svg:x="4.592cm" svg:y="5.125cm" svg:viewBox="0 0 5566 1179" draw:points="2784,1179 0,1179 0,0 5566,0 5566,1179">
+     <text:p text:style-name="P27"><text:span text:style-name="T18">nome da função</text:span></text:p>
     </draw:polygon>
-    <draw:polygon draw:style-name="gr6" draw:text-style-name="P36" xml:id="id28" draw:id="id28" draw:layer="layout" svg:width="9.571cm" svg:height="1.178cm" svg:x="11.546cm" svg:y="6.821cm" svg:viewBox="0 0 9572 1179" draw:points="4788,1179 0,1179 0,0 9572,0 9572,1179">
-     <text:p text:style-name="P35"><text:span text:style-name="T18">parâmetros: tipos e nomes</text:span></text:p>
+    <draw:polygon draw:style-name="gr6" draw:text-style-name="P34" xml:id="id28" draw:id="id28" draw:layer="layout" svg:width="9.571cm" svg:height="1.178cm" svg:x="11.546cm" svg:y="6.821cm" svg:viewBox="0 0 9572 1179" draw:points="4788,1179 0,1179 0,0 9572,0 9572,1179">
+     <text:p text:style-name="P27"><text:span text:style-name="T18">parâmetros: tipos e nomes</text:span></text:p>
     </draw:polygon>
-    <draw:polygon draw:style-name="gr6" draw:text-style-name="P36" xml:id="id34" draw:id="id34" draw:layer="layout" svg:width="6.444cm" svg:height="1.178cm" svg:x="18.305cm" svg:y="14.735cm" svg:viewBox="0 0 6445 1179" draw:points="3224,1179 0,1179 0,0 6445,0 6445,1179">
-     <text:p text:style-name="P35"><text:span text:style-name="T18">corpo da função</text:span></text:p>
+    <draw:polygon draw:style-name="gr6" draw:text-style-name="P34" xml:id="id34" draw:id="id34" draw:layer="layout" svg:width="6.444cm" svg:height="1.178cm" svg:x="18.305cm" svg:y="14.735cm" svg:viewBox="0 0 6445 1179" draw:points="3224,1179 0,1179 0,0 6445,0 6445,1179">
+     <text:p text:style-name="P27"><text:span text:style-name="T18">corpo da função</text:span></text:p>
     </draw:polygon>
-    <draw:polygon draw:style-name="gr6" draw:text-style-name="P36" xml:id="id36" draw:id="id36" draw:layer="layout" svg:width="6.444cm" svg:height="1.178cm" svg:x="5.629cm" svg:y="14.163cm" svg:viewBox="0 0 6445 1179" draw:points="3224,1179 0,1179 0,0 6445,0 6445,1179">
-     <text:p text:style-name="P35"><text:span text:style-name="T18">valor de retorno</text:span></text:p>
+    <draw:polygon draw:style-name="gr6" draw:text-style-name="P34" xml:id="id36" draw:id="id36" draw:layer="layout" svg:width="6.444cm" svg:height="1.178cm" svg:x="5.629cm" svg:y="14.163cm" svg:viewBox="0 0 6445 1179" draw:points="3224,1179 0,1179 0,0 6445,0 6445,1179">
+     <text:p text:style-name="P27"><text:span text:style-name="T18">valor de retorno</text:span></text:p>
     </draw:polygon>
-    <draw:line draw:style-name="gr8" draw:text-style-name="P25" xml:id="id27" draw:id="id27" draw:layer="layout" svg:x1="6.972cm" svg:y1="6.304cm" svg:x2="7.072cm" svg:y2="9.765cm">
+    <draw:polyline draw:style-name="gr8" draw:text-style-name="P25" xml:id="id27" draw:id="id27" draw:layer="layout" svg:width="0.099cm" svg:height="3.46cm" svg:x="6.972cm" svg:y="6.304cm" svg:viewBox="0 0 100 3461" draw:points="0,0 100,3461">
      <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr8" draw:text-style-name="P25" xml:id="id29" draw:id="id29" draw:layer="layout" svg:x1="15.545cm" svg:y1="8cm" svg:x2="11.45cm" svg:y2="9.573cm">
+    </draw:polyline>
+    <draw:polyline draw:style-name="gr8" draw:text-style-name="P25" xml:id="id29" draw:id="id29" draw:layer="layout" svg:width="4.094cm" svg:height="1.572cm" svg:x="11.45cm" svg:y="8cm" svg:viewBox="0 0 4095 1573" draw:points="4095,0 0,1573">
      <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr8" draw:text-style-name="P25" xml:id="id30" draw:id="id30" draw:layer="layout" svg:x1="15.559cm" svg:y1="8.057cm" svg:x2="16.212cm" svg:y2="9.621cm">
+    </draw:polyline>
+    <draw:polyline draw:style-name="gr8" draw:text-style-name="P25" xml:id="id30" draw:id="id30" draw:layer="layout" svg:width="0.652cm" svg:height="1.563cm" svg:x="15.559cm" svg:y="8.057cm" svg:viewBox="0 0 653 1564" draw:points="0,0 653,1564">
      <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr8" draw:text-style-name="P25" xml:id="id31" draw:id="id31" draw:layer="layout" svg:x1="15.609cm" svg:y1="8.044cm" svg:x2="20.999cm" svg:y2="9.765cm">
+    </draw:polyline>
+    <draw:polyline draw:style-name="gr8" draw:text-style-name="P25" xml:id="id31" draw:id="id31" draw:layer="layout" svg:width="5.389cm" svg:height="1.72cm" svg:x="15.609cm" svg:y="8.044cm" svg:viewBox="0 0 5390 1721" draw:points="0,0 5390,1721">
      <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr8" draw:text-style-name="P25" xml:id="id35" draw:id="id35" draw:layer="layout" svg:x1="20.767cm" svg:y1="14.735cm" svg:x2="16.789cm" svg:y2="11.665cm">
+    </draw:polyline>
+    <draw:polyline draw:style-name="gr8" draw:text-style-name="P25" xml:id="id35" draw:id="id35" draw:layer="layout" svg:width="3.977cm" svg:height="3.069cm" svg:x="16.789cm" svg:y="11.665cm" svg:viewBox="0 0 3978 3070" draw:points="3978,3070 0,0">
      <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr8" draw:text-style-name="P25" xml:id="id37" draw:id="id37" draw:layer="layout" svg:x1="8.47cm" svg:y1="14.136cm" svg:x2="7.505cm" svg:y2="12.555cm">
+    </draw:polyline>
+    <draw:polyline draw:style-name="gr8" draw:text-style-name="P25" xml:id="id37" draw:id="id37" draw:layer="layout" svg:width="0.964cm" svg:height="1.58cm" svg:x="7.505cm" svg:y="12.555cm" svg:viewBox="0 0 965 1581" draw:points="965,1581 0,0">
      <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr8" draw:text-style-name="P25" xml:id="id33" draw:id="id33" draw:layer="layout" svg:x1="2.681cm" svg:y1="7.967cm" svg:x2="3.825cm" svg:y2="9.621cm">
+    </draw:polyline>
+    <draw:polyline draw:style-name="gr8" draw:text-style-name="P25" xml:id="id33" draw:id="id33" draw:layer="layout" svg:width="1.143cm" svg:height="1.653cm" svg:x="2.681cm" svg:y="7.967cm" svg:viewBox="0 0 1144 1654" draw:points="0,0 1144,1654">
      <text:p/>
-    </draw:line>
+    </draw:polyline>
     <anim:par presentation:node-type="timing-root">
      <anim:seq presentation:node-type="main-sequence">
       <anim:par smil:begin="next">
@@ -3058,15 +3043,14 @@
       </anim:par>
      </anim:seq>
     </anim:par>
-    <presentation:notes draw:style-name="dp4">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <presentation:notes draw:style-name="dp3">
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="7" presentation:class="page"/>
      <draw:frame presentation:style-name="pr15" draw:text-style-name="P29" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page8" draw:style-name="dp5" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
+   <draw:page draw:name="page8" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr16" draw:text-style-name="P24" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
@@ -3114,7 +3098,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page9" draw:style-name="dp5" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
+   <draw:page draw:name="page9" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr16" draw:text-style-name="P24" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
