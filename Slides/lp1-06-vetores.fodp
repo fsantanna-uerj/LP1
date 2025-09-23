@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1179</meta:editing-cycles><meta:editing-duration>P63DT4H24M38S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2025-09-04T13:59:09.149184325</dc:date><meta:document-statistic meta:object-count="113"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1190</meta:editing-cycles><meta:editing-duration>P63DT4H58M46S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2025-09-23T14:04:28.204661905</dc:date><meta:document-statistic meta:object-count="136"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-192</config:config-item>
@@ -29,16 +29,16 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">2</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">13</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-328</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-1764</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">31726</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">21747</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-600</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-3491</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">34342</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">24632</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -49,7 +49,7 @@
      <config:config-item config:name="GridSnapWidthYDenominator" config:type="int">1</config:config-item>
      <config:config-item config:name="IsAngleSnapEnabled" config:type="boolean">false</config:config-item>
      <config:config-item config:name="SnapAngle" config:type="int">1500</config:config-item>
-     <config:config-item config:name="ZoomOnPage" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ZoomOnPage" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
@@ -119,9 +119,9 @@
    <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">EPSON_L4160_Series</config:config-item>
    <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">oAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAwQAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">lwH+/0VQU09OX0w0MTYwX1NlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpFUFNPTl9MNDE2MF9TZXJpZXMAAAAAAAAAAAAWAAMAuAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9RVBTT05fTDQxNjBfU2VyaWVzCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
    <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SlidesPerHandout" config:type="short">6</config:config-item>
@@ -142,13 +142,14 @@
   <style:font-face style:name="Courier" svg:font-family="Courier" style:font-family-generic="modern" style:font-pitch="variable"/>
   <style:font-face style:name="Courier1" svg:font-family="Courier" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="FreeMono" svg:font-family="FreeMono" style:font-family-generic="modern" style:font-pitch="fixed"/>
-  <style:font-face style:name="FreeMono1" svg:font-family="FreeMono" style:font-family-generic="modern" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans Mono" svg:font-family="&apos;DejaVu Sans Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="FreeMono" svg:font-family="FreeMono" style:font-family-generic="modern" style:font-pitch="variable"/>
+  <style:font-face style:name="FreeMono1" svg:font-family="FreeMono" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="HG Mincho Light J" svg:font-family="&apos;HG Mincho Light J&apos;" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="Nimbus Roman No9 L" svg:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Nimbus Roman No9 L1" svg:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
+  <style:font-face style:name="Nimbus Roman No9 L" svg:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
+  <style:font-face style:name="Nimbus Roman No9 L1" svg:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans CJK SC Regular" svg:font-family="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
@@ -332,9 +333,10 @@
    </office:binary-data>
   </draw:fill-image>
   <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
+  <draw:marker draw:name="Arrowheads_20_1" draw:display-name="Arrowheads 1" svg:viewBox="0 0 20 20" svg:d="M0 20l10-20 10 20z"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#000000" draw:fill-color="#99ccff" fo:wrap-option="no-wrap"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman1" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-name-asian="Arial2" style:font-size-asian="24pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Arial2" style:font-size-complex="24pt" style:language-complex="zxx" style:country-complex="none"/>
@@ -986,39 +988,39 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="1.2cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.5cm" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="oranssi-outline2" style:family="presentation" style:parent-style-name="oranssi-outline1">
    <style:paragraph-properties fo:margin-left="2.4cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.4cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
   </style:style>
   <style:style style:name="oranssi-outline3" style:family="presentation" style:parent-style-name="oranssi-outline2">
    <style:paragraph-properties fo:margin-left="3.6cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.3cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="24pt" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="24pt" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
   </style:style>
   <style:style style:name="oranssi-outline4" style:family="presentation" style:parent-style-name="oranssi-outline3">
    <style:paragraph-properties fo:margin-left="4.8cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.2cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="oranssi-outline5" style:family="presentation" style:parent-style-name="oranssi-outline4">
    <style:paragraph-properties fo:margin-left="6cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.1cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="oranssi-outline6" style:family="presentation" style:parent-style-name="oranssi-outline5">
    <style:paragraph-properties fo:margin-left="7.2cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.1cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="oranssi-outline7" style:family="presentation" style:parent-style-name="oranssi-outline6">
    <style:paragraph-properties fo:margin-left="8.4cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.1cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="oranssi-outline8" style:family="presentation" style:parent-style-name="oranssi-outline7">
    <style:paragraph-properties fo:margin-left="9.6cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.1cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="oranssi-outline9" style:family="presentation" style:parent-style-name="oranssi-outline8">
    <style:paragraph-properties fo:margin-left="10.8cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.1cm" fo:text-indent="0cm"/>
-   <style:text-properties style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+   <style:text-properties style:font-name="Nimbus Roman No9 L1" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="oranssi-subtitle" style:family="presentation">
    <style:graphic-properties draw:stroke="solid" draw:fill="none" draw:textarea-vertical-align="middle">
@@ -1408,6 +1410,21 @@
   <style:style style:name="gr4" style:family="graphic">
    <style:graphic-properties style:protect="size"/>
   </style:style>
+  <style:style style:name="gr5" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-vertical-align="middle" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr6" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties svg:stroke-width="0.106cm" draw:marker-start-width="0.358cm" draw:marker-end="Arrowheads_20_1" draw:marker-end-width="0.458cm" draw:fill="none" draw:fill-color="#fff5ce" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.052cm" fo:padding-bottom="0.052cm" fo:padding-left="0.052cm" fo:padding-right="0.052cm"/>
+  </style:style>
+  <style:style style:name="gr7" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="1.442cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr8" style:family="graphic" style:parent-style-name="Default_5f_6">
+   <style:graphic-properties draw:fill-color="#0066cc" draw:opacity="50%" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.125cm" fo:min-width="3.761cm" draw:shadow-opacity="50%"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
   <style:style style:name="pr1" style:family="presentation" style:parent-style-name="oranssi-backgroundobjects">
    <style:graphic-properties draw:stroke="none" draw:fill="gradient" draw:fill-gradient-name="Gradient_20_7" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle"/>
   </style:style>
@@ -1499,6 +1516,10 @@
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="pr24" style:family="presentation" style:parent-style-name="oranssi-outline1">
+   <style:graphic-properties fo:min-height="4.25cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="pr25" style:family="presentation" style:parent-style-name="oranssi-outline1">
    <style:graphic-properties fo:min-height="14.503cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
@@ -1507,6 +1528,12 @@
   </style:style>
   <style:style style:name="co2" style:family="table-column">
    <style:table-column-properties style:column-width="2.656cm" style:use-optimal-column-width="false"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties style:column-width="2.455cm" style:use-optimal-column-width="false"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties style:column-width="2.458cm" style:use-optimal-column-width="false"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="1.5cm" style:use-optimal-row-height="false"/>
@@ -1532,6 +1559,9 @@
   <style:style style:name="ro8" style:family="table-row">
    <style:table-row-properties style:row-height="1.295cm" style:use-optimal-row-height="false"/>
   </style:style>
+  <style:style style:name="ro9" style:family="table-row">
+   <style:table-row-properties style:row-height="2.215cm" style:use-optimal-row-height="false"/>
+  </style:style>
   <style:style style:name="ce1" style:family="table-cell">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:textarea-vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center" fo:border="0.03pt solid #000000"/>
@@ -1548,7 +1578,22 @@
   <style:style style:name="ce4" style:family="table-cell">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:text-align="center" fo:border="0.03pt solid #000000"/>
-   <style:text-properties style:font-name="FreeMono" fo:font-size="30pt" style:font-size-asian="30pt" style:font-size-complex="30pt"/>
+   <style:text-properties style:font-name="FreeMono1" fo:font-size="30pt" style:font-size-asian="30pt" style:font-size-complex="30pt"/>
+  </style:style>
+  <style:style style:name="ce5" style:family="table-cell">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#dddddd" draw:textarea-vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:border-left="0.03pt solid #ffffff" fo:border-right="none" fo:border-top="0.03pt solid #ffffff" fo:border-bottom="0.03pt solid #ffffff"/>
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
+  </style:style>
+  <style:style style:name="ce6" style:family="table-cell">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#dddddd" draw:textarea-vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:border="0.03pt solid #ffffff"/>
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
+  </style:style>
+  <style:style style:name="ce7" style:family="table-cell">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#dddddd" draw:textarea-vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:border-left="none" fo:border-right="0.03pt solid #ffffff" fo:border-top="0.03pt solid #ffffff" fo:border-bottom="0.03pt solid #ffffff"/>
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
@@ -1645,7 +1690,7 @@
   </style:style>
   <style:style style:name="P26" style:family="paragraph">
    <style:paragraph-properties style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="FreeMono" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="FreeMono1" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P27" style:family="paragraph">
    <style:paragraph-properties fo:text-align="center"/>
@@ -1656,12 +1701,51 @@
   </style:style>
   <style:style style:name="P29" style:family="paragraph">
    <style:paragraph-properties fo:text-align="center"/>
-   <style:text-properties style:font-name="FreeMono" fo:font-size="30pt" style:font-size-asian="30pt" style:font-size-complex="30pt"/>
+   <style:text-properties style:font-name="FreeMono1" fo:font-size="30pt" style:font-size-asian="30pt" style:font-size-complex="30pt"/>
   </style:style>
   <style:style style:name="P30" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#ffffff"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-size="20pt"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="24pt" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="24pt" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#fff5ce"/>
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph">
+   <style:text-properties style:font-name="DejaVu Sans Mono"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:text-properties style:font-name="DejaVu Sans Mono"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph">
+   <loext:graphic-properties draw:fill-color="#0066cc" draw:opacity="50%"/>
+   <style:paragraph-properties fo:text-align="center" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph">
+   <loext:graphic-properties draw:fill-color="#ffffff"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph">
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
@@ -1685,37 +1769,37 @@
    <style:text-properties style:font-name="Courier1" fo:font-size="20pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties style:font-name="FreeMono" fo:font-size="26pt" fo:font-weight="bold" style:font-size-asian="26pt" style:font-weight-asian="bold" style:font-size-complex="26pt" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="FreeMono1" fo:font-size="26pt" fo:font-weight="bold" style:font-size-asian="26pt" style:font-weight-asian="bold" style:font-size-complex="26pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties style:font-name="FreeMono" fo:font-size="26pt" fo:font-weight="normal" style:font-size-asian="26pt" style:font-weight-asian="normal" style:font-size-complex="26pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="FreeMono1" fo:font-size="26pt" fo:font-weight="normal" style:font-size-asian="26pt" style:font-weight-asian="normal" style:font-size-complex="26pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties fo:color="#2a6099" loext:opacity="100%" style:font-name="FreeMono" fo:font-size="26pt" fo:font-weight="normal" style:font-size-asian="26pt" style:font-weight-asian="normal" style:font-size-complex="26pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#2a6099" loext:opacity="100%" style:font-name="FreeMono1" fo:font-size="26pt" fo:font-weight="normal" style:font-size-asian="26pt" style:font-weight-asian="normal" style:font-size-complex="26pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="FreeMono" fo:font-size="26pt" fo:font-weight="normal" style:font-size-asian="26pt" style:font-weight-asian="normal" style:font-size-complex="26pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="FreeMono1" fo:font-size="26pt" fo:font-weight="normal" style:font-size-asian="26pt" style:font-weight-asian="normal" style:font-size-complex="26pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties fo:color="#c9211e" loext:opacity="100%" style:font-name="FreeMono" fo:font-size="26pt" fo:font-weight="normal" style:font-size-asian="26pt" style:font-weight-asian="normal" style:font-size-complex="26pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#c9211e" loext:opacity="100%" style:font-name="FreeMono1" fo:font-size="26pt" fo:font-weight="normal" style:font-size-asian="26pt" style:font-weight-asian="normal" style:font-size-complex="26pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
    <style:text-properties fo:font-size="15pt" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties style:font-name="FreeMono" fo:font-size="30pt" style:font-size-asian="30pt" style:font-size-complex="30pt"/>
+   <style:text-properties style:font-name="FreeMono1" fo:font-size="30pt" style:font-size-asian="30pt" style:font-size-complex="30pt"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties style:font-name="FreeMono" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="FreeMono1" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties style:font-name="FreeMono"/>
+   <style:text-properties style:font-name="FreeMono1"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
-   <style:text-properties style:font-name="FreeMono" fo:font-size="22pt" fo:font-weight="bold" style:font-size-asian="22pt" style:font-weight-asian="bold" style:font-size-complex="22pt" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="FreeMono1" fo:font-size="22pt" fo:font-weight="bold" style:font-size-asian="22pt" style:font-weight-asian="bold" style:font-size-complex="22pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T18" style:family="text">
-   <style:text-properties style:font-name="FreeMono" fo:font-size="22pt" fo:font-weight="normal" style:font-size-asian="22pt" style:font-weight-asian="normal" style:font-size-complex="22pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="FreeMono1" fo:font-size="22pt" fo:font-weight="normal" style:font-size-asian="22pt" style:font-weight-asian="normal" style:font-size-complex="22pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
    <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
@@ -1724,34 +1808,52 @@
    <style:text-properties fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
-   <style:text-properties style:font-name="FreeMono" fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
+   <style:text-properties style:font-name="FreeMono1" fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
    <style:text-properties fo:font-size="26pt" style:font-size-asian="26pt" style:font-size-complex="26pt"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
-   <style:text-properties style:font-name="FreeMono" fo:font-size="26pt" style:font-size-asian="26pt" style:font-size-complex="26pt"/>
+   <style:text-properties style:font-name="FreeMono1" fo:font-size="26pt" style:font-size-asian="26pt" style:font-size-complex="26pt"/>
   </style:style>
   <style:style style:name="T24" style:family="text">
-   <style:text-properties style:font-name="FreeMono" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+   <style:text-properties style:font-name="FreeMono1" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="T25" style:family="text">
    <style:text-properties fo:font-size="2pt" style:font-size-asian="2pt" style:font-size-complex="2pt"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
-   <style:text-properties style:font-name="FreeMono" fo:font-size="2pt" style:font-size-asian="2pt" style:font-size-complex="2pt"/>
+   <style:text-properties style:font-name="FreeMono1" fo:font-size="2pt" style:font-size-asian="2pt" style:font-size-complex="2pt"/>
   </style:style>
   <style:style style:name="T27" style:family="text">
-   <style:text-properties fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
   </style:style>
   <style:style style:name="T28" style:family="text">
-   <style:text-properties style:font-name="FreeMono" fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties fo:font-size="24pt" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="24pt" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
-   <style:text-properties style:font-name="FreeMono" fo:font-size="21pt" style:font-size-asian="21pt" style:font-size-complex="21pt"/>
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="26pt" style:font-size-asian="26pt" style:font-size-complex="26pt"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties style:font-name="FreeMono1" fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties fo:font-size="24pt" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties style:font-name="FreeMono1" fo:font-size="21pt" style:font-size-asian="21pt" style:font-size-complex="21pt"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:bullet-char="●">
@@ -2005,6 +2107,7 @@
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="6.616cm" svg:height="4.962cm" svg:x="21.109cm" svg:y="13.975cm"/>
   </style:handout-master>
   <style:master-page style:name="oranssi" style:page-layout-name="PM1" draw:style-name="dp1">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <draw:rect presentation:style-name="pr1" draw:text-style-name="P5" draw:layer="backgroundobjects" svg:width="28cm" svg:height="10.5cm" svg:x="0cm" svg:y="0cm">
     <text:p/>
    </draw:rect>
@@ -2078,6 +2181,7 @@
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM2">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:page-thumbnail presentation:style-name="oranssi-title" draw:layer="backgroundobjects" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" presentation:class="page"/>
     <draw:frame presentation:style-name="oranssi-notes" draw:layer="backgroundobjects" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
@@ -2496,18 +2600,18 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-header>
-        <text:p xml:id="id1" text:id="id1"><text:span text:style-name="T8">int</text:span><text:span text:style-name="T9"> xs[4];</text:span></text:p>
-        <text:p xml:id="id2" text:id="id2"><text:span text:style-name="T8">int</text:span><text:span text:style-name="T9"> ys[4];</text:span></text:p>
+        <text:p><text:span text:style-name="T8">int</text:span><text:span text:style-name="T9"> xs[4];</text:span></text:p>
+        <text:p><text:span text:style-name="T8">int</text:span><text:span text:style-name="T9"> ys[4];</text:span></text:p>
         <text:p><text:span text:style-name="T15"/></text:p>
-        <text:p><text:span text:style-name="T9">printf(“%p %p\n”, &amp;xs, &amp;ys);</text:span></text:p>
+        <text:p xml:id="id2" text:id="id2"><text:span text:style-name="T9">printf(“%p %p\n”, &amp;xs, &amp;ys);</text:span></text:p>
         <text:p><text:span text:style-name="T15"/></text:p>
-        <text:p><text:span text:style-name="T9">printf(“%p %p %p %p %p %p\n”,</text:span></text:p>
-        <text:p><text:span text:style-name="T9"><text:s text:c="8"/></text:span><text:span text:style-name="T9">xs,xs+0,xs+1,xs+2,xs+3,xs+4);</text:span></text:p>
+        <text:p xml:id="id3" text:id="id3"><text:span text:style-name="T9">printf(“%p %p %p %p %p %p\n”,</text:span></text:p>
+        <text:p xml:id="id4" text:id="id4"><text:span text:style-name="T9"><text:s text:c="8"/></text:span><text:span text:style-name="T9">xs,xs+0,xs+1,xs+2,xs+3,xs+4);</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" xml:id="id3" draw:id="id3" draw:layer="layout" svg:width="7.965cm" svg:height="9.205cm" svg:x="19.767cm" svg:y="4.689cm">
+    <draw:frame draw:style-name="standard" xml:id="id1" draw:id="id1" draw:layer="layout" svg:width="7.965cm" svg:height="9.205cm" svg:x="19.767cm" svg:y="4.689cm">
      <table:table table:template-name="default" table:use-first-row-styles="true" table:use-banding-rows-styles="true">
       <table:table-column table:style-name="co1"/>
       <table:table-column table:style-name="co1"/>
@@ -2749,14 +2853,14 @@
      <anim:seq presentation:node-type="main-sequence">
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id1" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id1" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id2" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
@@ -2764,7 +2868,10 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id3" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id3" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id4" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -2788,20 +2895,20 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-header>
-        <text:p xml:id="id4" text:id="id4"><text:span text:style-name="T8">int</text:span><text:span text:style-name="T9"> xs[4];</text:span></text:p>
-        <text:p xml:id="id5" text:id="id5"><text:span text:style-name="T8">int</text:span><text:span text:style-name="T9"> ys[4];</text:span></text:p>
+        <text:p xml:id="id5" text:id="id5"><text:span text:style-name="T8">int</text:span><text:span text:style-name="T9"> xs[4];</text:span></text:p>
+        <text:p xml:id="id6" text:id="id6"><text:span text:style-name="T8">int</text:span><text:span text:style-name="T9"> ys[4];</text:span></text:p>
         <text:p><text:span text:style-name="T15"/></text:p>
-        <text:p xml:id="id7" text:id="id7"><text:span text:style-name="T9">*(xs+3) = 10; // xs[3]=10</text:span></text:p>
-        <text:p xml:id="id8" text:id="id8"><text:span text:style-name="T9">printf(“%d\n”, xs[3]);</text:span></text:p>
+        <text:p xml:id="id8" text:id="id8"><text:span text:style-name="T9">*(xs+3) = 10; // xs[3]=10</text:span></text:p>
+        <text:p xml:id="id9" text:id="id9"><text:span text:style-name="T9">printf(“%d\n”, xs[3]);</text:span></text:p>
         <text:p><text:span text:style-name="T9"/></text:p>
-        <text:p xml:id="id9" text:id="id9"><text:span text:style-name="T9">printf(“%p %p\n”, (xs+3), &amp;xs[3]);</text:span></text:p>
-        <text:p xml:id="id10" text:id="id10"><text:span text:style-name="T9">scanf(“%d”, &amp;xs[1]);</text:span></text:p>
+        <text:p xml:id="id10" text:id="id10"><text:span text:style-name="T9">printf(“%p %p\n”, (xs+3), &amp;xs[3]);</text:span></text:p>
+        <text:p xml:id="id11" text:id="id11"><text:span text:style-name="T9">scanf(“%d”, &amp;xs[1]);</text:span></text:p>
         <text:p><text:span text:style-name="T9"/></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Default_5f_1" xml:id="id6" draw:id="id6" draw:layer="layout" svg:width="7.965cm" svg:height="9.205cm" svg:x="19.767cm" svg:y="4.689cm">
+    <draw:frame draw:style-name="Default_5f_1" xml:id="id7" draw:id="id7" draw:layer="layout" svg:width="7.965cm" svg:height="9.205cm" svg:x="19.767cm" svg:y="4.689cm">
      <table:table table:template-name="default" table:use-first-row-styles="true" table:use-banding-rows-styles="true">
       <table:table-column table:style-name="co1"/>
       <table:table-column table:style-name="co1"/>
@@ -3044,29 +3151,22 @@
       <anim:par smil:begin="0s">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id4" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id5" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id6" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id6" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id7" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id7" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id8" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id9" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
@@ -3075,6 +3175,13 @@
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id10" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id11" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -3137,17 +3244,17 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-header>
-        <text:p xml:id="id11" text:id="id11"><text:span text:style-name="T17">int</text:span><text:span text:style-name="T18"> vs[3][2] = { {1,2},{3,4},{5,6} };</text:span></text:p>
-        <text:p xml:id="id13" text:id="id13"><text:span text:style-name="T17">printf</text:span><text:span text:style-name="T18">(“%d %d\n”, vs[0][1], vs[1][0]);</text:span></text:p>
-        <text:p xml:id="id14" text:id="id14"><text:span text:style-name="T17">printf</text:span><text:span text:style-name="T18">(“%p %p\n”, &amp;vs, &amp;vs[0][0]);</text:span></text:p>
-        <text:p xml:id="id15" text:id="id15"><text:span text:style-name="T17">printf</text:span><text:span text:style-name="T18">(“%p\n”, <text:s text:c="8"/>&amp;vs[0][1]);</text:span></text:p>
-        <text:p xml:id="id16" text:id="id16"><text:span text:style-name="T17">printf</text:span><text:span text:style-name="T18">(“%p\n”, <text:s text:c="8"/>&amp;vs[1][0]);</text:span></text:p>
+        <text:p xml:id="id12" text:id="id12"><text:span text:style-name="T17">int</text:span><text:span text:style-name="T18"> vs[3][2] = { {1,2},{3,4},{5,6} };</text:span></text:p>
+        <text:p xml:id="id14" text:id="id14"><text:span text:style-name="T17">printf</text:span><text:span text:style-name="T18">(“%d %d\n”, vs[0][1], vs[1][0]);</text:span></text:p>
+        <text:p xml:id="id15" text:id="id15"><text:span text:style-name="T17">printf</text:span><text:span text:style-name="T18">(“%p %p\n”, &amp;vs, &amp;vs[0][0]);</text:span></text:p>
+        <text:p xml:id="id16" text:id="id16"><text:span text:style-name="T17">printf</text:span><text:span text:style-name="T18">(“%p\n”, <text:s text:c="8"/>&amp;vs[0][1]);</text:span></text:p>
+        <text:p xml:id="id17" text:id="id17"><text:span text:style-name="T17">printf</text:span><text:span text:style-name="T18">(“%p\n”, <text:s text:c="8"/>&amp;vs[1][0]);</text:span></text:p>
         <text:p><text:span text:style-name="T18"/></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" xml:id="id12" draw:id="id12" draw:layer="layout" svg:width="7.965cm" svg:height="9.204cm" svg:x="19.685cm" svg:y="4.689cm">
+    <draw:frame draw:style-name="standard" xml:id="id13" draw:id="id13" draw:layer="layout" svg:width="7.965cm" svg:height="9.204cm" svg:x="19.685cm" svg:y="4.689cm">
      <table:table table:template-name="default" table:use-first-row-styles="true" table:use-banding-rows-styles="true">
       <table:table-column table:style-name="co1"/>
       <table:table-column table:style-name="co1"/>
@@ -3376,21 +3483,14 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id11" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id12" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id12" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id13" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id13" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -3412,6 +3512,13 @@
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id16" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id17" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -3451,6 +3558,7 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page9" draw:style-name="dp5" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr16" draw:text-style-name="P24" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Exercício 6.1</text:p>
@@ -3495,6 +3603,7 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page10" draw:style-name="dp5" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr16" draw:text-style-name="P24" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Exercício 6.2</text:p>
@@ -3535,6 +3644,7 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page11" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr16" draw:text-style-name="P24" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Strings</text:p>
@@ -3544,20 +3654,20 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-header>
-        <text:p xml:id="id17" text:id="id17"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s1[] = “abc”;</text:span></text:p>
-        <text:p xml:id="id18" text:id="id18"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s2[] = “def”;</text:span></text:p>
+        <text:p xml:id="id18" text:id="id18"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s1[] = “abc”;</text:span></text:p>
+        <text:p xml:id="id19" text:id="id19"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s2[] = “def”;</text:span></text:p>
         <text:p><text:span text:style-name="T9"/></text:p>
-        <text:p xml:id="id20" text:id="id20"><text:span text:style-name="T8">printf</text:span><text:span text:style-name="T9">(“%s/%s\n”, s1, s2);</text:span></text:p>
+        <text:p xml:id="id21" text:id="id21"><text:span text:style-name="T8">printf</text:span><text:span text:style-name="T9">(“%s/%s\n”, s1, s2);</text:span></text:p>
         <text:p><text:span text:style-name="T9"/></text:p>
-        <text:p xml:id="id21" text:id="id21"><text:span text:style-name="T8">printf</text:span><text:span text:style-name="T9">(“%d\n”, </text:span><text:span text:style-name="T8">strlen</text:span><text:span text:style-name="T9">(s1));</text:span></text:p>
+        <text:p xml:id="id22" text:id="id22"><text:span text:style-name="T8">printf</text:span><text:span text:style-name="T9">(“%d\n”, </text:span><text:span text:style-name="T8">strlen</text:span><text:span text:style-name="T9">(s1));</text:span></text:p>
         <text:p><text:span text:style-name="T9"/></text:p>
-        <text:p xml:id="id22" text:id="id22"><text:span text:style-name="T8">printf</text:span><text:span text:style-name="T9">(“%d %d %d %d %d\n”,</text:span></text:p>
-        <text:p xml:id="id23" text:id="id23"><text:span text:style-name="T9"><text:s text:c="7"/></text:span><text:span text:style-name="T9">s1[0],s1[1],s1[2],s1[3],s1[4]);</text:span></text:p>
+        <text:p xml:id="id23" text:id="id23"><text:span text:style-name="T8">printf</text:span><text:span text:style-name="T9">(“%d %d %d %d %d\n”,</text:span></text:p>
+        <text:p xml:id="id24" text:id="id24"><text:span text:style-name="T9"><text:s text:c="7"/></text:span><text:span text:style-name="T9">s1[0],s1[1],s1[2],s1[3],s1[4]);</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Default_5f_1" xml:id="id19" draw:id="id19" draw:layer="layout" svg:width="7.965cm" svg:height="9.204cm" svg:x="19.767cm" svg:y="4.689cm">
+    <draw:frame draw:style-name="Default_5f_1" xml:id="id20" draw:id="id20" draw:layer="layout" svg:width="7.965cm" svg:height="9.204cm" svg:x="19.767cm" svg:y="4.689cm">
      <table:table table:template-name="default" table:use-first-row-styles="true" table:use-banding-rows-styles="true">
       <table:table-column table:style-name="co1"/>
       <table:table-column table:style-name="co1"/>
@@ -3786,24 +3896,17 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id17" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id18" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id18" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id19" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id19" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id20" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id20" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -3828,6 +3931,13 @@
         </anim:par>
        </anim:par>
       </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id24" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
      </anim:seq>
     </anim:par>
     <presentation:notes draw:style-name="dp3">
@@ -3838,6 +3948,7 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page12" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr16" draw:text-style-name="P24" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Strings</text:p>
@@ -3847,28 +3958,21 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-header>
-        <text:p xml:id="id24" text:id="id24"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s1[] = “abc”;</text:span></text:p>
+        <text:p xml:id="id25" text:id="id25"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s1[] = “abc”;</text:span></text:p>
         <text:p><text:span text:style-name="T9"/></text:p>
-        <text:p xml:id="id25" text:id="id25"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s2[4];</text:span></text:p>
-        <text:p xml:id="id26" text:id="id26" text:style-name="P25"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s2[0] = ‘a’;</text:span></text:p>
-        <text:p xml:id="id27" text:id="id27" text:style-name="P25"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s2[1] = ‘b’;</text:span></text:p>
-        <text:p xml:id="id28" text:id="id28" text:style-name="P25"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s2[2] = ‘c’;</text:span></text:p>
-        <text:p xml:id="id29" text:id="id29" text:style-name="P25"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s2[3] = ‘\0’; // 0</text:span></text:p>
+        <text:p xml:id="id26" text:id="id26"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s2[4];</text:span></text:p>
+        <text:p xml:id="id27" text:id="id27" text:style-name="P25"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s2[0] = ‘a’;</text:span></text:p>
+        <text:p xml:id="id28" text:id="id28" text:style-name="P25"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s2[1] = ‘b’;</text:span></text:p>
+        <text:p xml:id="id29" text:id="id29" text:style-name="P25"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s2[2] = ‘c’;</text:span></text:p>
+        <text:p xml:id="id30" text:id="id30" text:style-name="P25"><text:span text:style-name="T8">char</text:span><text:span text:style-name="T9"> s2[3] = ‘\0’; // 0</text:span></text:p>
         <text:p text:style-name="P25"><text:span text:style-name="T9"/></text:p>
-        <text:p xml:id="id30" text:id="id30"><text:span text:style-name="T8">printf</text:span><text:span text:style-name="T9">(“%s/%s\n”, s1, s2);</text:span></text:p>
+        <text:p xml:id="id31" text:id="id31"><text:span text:style-name="T8">printf</text:span><text:span text:style-name="T9">(“%s/%s\n”, s1, s2);</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <anim:par presentation:node-type="timing-root">
      <anim:seq presentation:node-type="main-sequence">
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id24" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
@@ -3911,6 +4015,13 @@
         </anim:par>
        </anim:par>
       </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id31" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
      </anim:seq>
     </anim:par>
     <presentation:notes draw:style-name="dp3">
@@ -3926,6 +4037,749 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page13" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr23" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title">
+     <draw:text-box>
+      <text:p>Strings</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr24" draw:layer="layout" svg:width="25.199cm" svg:height="5.335cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L3">
+       <text:list-item>
+        <text:p><text:span text:style-name="T27">strncpy</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T22">Copia uma string para um destino</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T28">char* strncpy (char* dst, char* src, int n)</text:span></text:p>
+         </text:list-item>
+        </text:list>
+        <text:p><text:span text:style-name="T27"/></text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" xml:id="id32" draw:id="id32" draw:layer="layout" svg:width="9.822cm" svg:height="2.214cm" svg:x="10.747cm" svg:y="14.94cm">
+     <table:table table:template-name="default" table:use-first-row-styles="true" table:use-banding-rows-styles="true">
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co4"/>
+      <table:table-row table:style-name="ro9" table:default-cell-style-name="ce6">
+       <table:table-cell table:style-name="ce5">
+        <text:p text:style-name="P31">a</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P31">l</text:p>
+       </table:table-cell>
+       <table:table-cell table:style-name="ce7">
+        <text:p text:style-name="P31">o</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P31">\0</text:p>
+       </table:table-cell>
+      </table:table-row>
+     </table:table><draw:image>
+      <office:binary-data>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
+       AAAAAAAAAAAAOkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBAB0AAAATAFhQQVRIU1RS
+       T0tFX1NFUV9FTkQAAAAAAAAAAIwAAQAAAAAAiwABAAIAAAADAIQAAQAFAAAA////AAEAAgEA
+       bgAAABUAWFBBVEhTVFJPS0VfU0VRX0JFR0lOAAAAAE8AAAABAEkAAAABABMAAAACAMBGAABP
+       OgAAwEYAABBDAAAAAQACAAAAAAABAAIAAAAAAAAAAAAAAAAAVVVVVVV1OkAAAAEAVVVVVVV1
+       OkAAAAAAhAABAAUAAAD///8AAYUAAQAFAAAAAAAAAABtAAMAUwAAAAIAwEYAAE86AADARgAA
+       EEMAAAUAOgAAAAEAGgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAOkAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAIBAB0AAAATAFhQQVRIU1RST0tFX1NFUV9FTkQAAAAAAAAAAIwA
+       AQAAAAAAiwABAAIAAAADAIQAAQAFAAAA////AAEAAgEAbgAAABUAWFBBVEhTVFJPS0VfU0VR
+       X0JFR0lOAAAAAE8AAAABAEkAAAABABMAAAACAFpQAABPOgAAWlAAABBDAAAAAQACAAAAAAAB
+       AAIAAAAAAAAAAAAAAAAAVVVVVVV1OkAAAAEAVVVVVVV1OkAAAAAAhAABAAUAAAD///8AAYUA
+       AQAFAAAAAAAAAABtAAMAUwAAAAIAWlAAAE86AABaUAAAEEMAAAUAOgAAAAEAGgAAAAAAAAAA
+       AAAAAAAAAAAAAAAEAAAAAAAAAAAAOkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBAB0A
+       AAATAFhQQVRIU1RST0tFX1NFUV9FTkQAAAAAAAAAAIwAAQAAAAAA
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" xml:id="id34" draw:id="id34" draw:layer="layout" svg:width="9.822cm" svg:height="2.214cm" svg:x="10.748cm" svg:y="10.341cm">
+     <table:table table:template-name="default" table:use-first-row-styles="true" table:use-banding-rows-styles="true">
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co4"/>
+      <table:table-row table:style-name="ro9" table:default-cell-style-name="ce6">
+       <table:table-cell table:style-name="ce5"/>
+       <table:table-cell/>
+       <table:table-cell table:style-name="ce7"/>
+       <table:table-cell/>
+      </table:table-row>
+     </table:table><draw:image>
+      <office:binary-data>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
+       AIwAAQAAAAAAiwABAAIAAAADAIQAAQAFAAAA////AAEAAgEAbgAAABUAWFBBVEhTVFJPS0Vf
+       U0VRX0JFR0lOAAAAAE8AAAABAEkAAAABABMAAAACAMFGAABYKAAAwUYAABkxAAAAAQACAAAA
+       AAABAAIAAAAAAAAAAAAAAAAAVVVVVVV1OkAAAAEAVVVVVVV1OkAAAAAAhAABAAUAAAD///8A
+       AYUAAQAFAAAAAAAAAABtAAMAUwAAAAIAwUYAAFgoAADBRgAAGTEAAAUAOgAAAAEAGgAAAAAA
+       AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAOkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIB
+       AB0AAAATAFhQQVRIU1RST0tFX1NFUV9FTkQAAAAAAAAAAIwAAQAAAAAAiwABAAIAAAADAIQA
+       AQAFAAAA////AAEAAgEAbgAAABUAWFBBVEhTVFJPS0VfU0VRX0JFR0lOAAAAAE8AAAABAEkA
+       AAABABMAAAACAFtQAABYKAAAW1AAABkxAAAAAQACAAAAAAABAAIAAAAAAAAAAAAAAAAAVVVV
+       VVV1OkAAAAEAVVVVVVV1OkAAAAAAhAABAAUAAAD///8AAYUAAQAFAAAAAAAAAABtAAMAUwAA
+       AAIAW1AAAFgoAABbUAAAGTEAAAUAOgAAAAEAGgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA
+       AAAAOkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBAB0AAAATAFhQQVRIU1RST0tFX1NF
+       UV9FTkQAAAAAAAAAAIwAAQAAAAAA
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P33" xml:id="id35" draw:id="id35" draw:layer="layout" svg:width="3.519cm" svg:height="1.237cm" svg:x="6.255cm" svg:y="10.737cm">
+     <draw:text-box>
+      <text:p text:style-name="P32"><text:span text:style-name="T29">dst</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P33" xml:id="id33" draw:id="id33" draw:layer="layout" svg:width="3.519cm" svg:height="1.237cm" svg:x="6.256cm" svg:y="15.438cm">
+     <draw:text-box>
+      <text:p text:style-name="P32"><text:span text:style-name="T29">src</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:line draw:style-name="gr6" draw:text-style-name="P34" xml:id="id36" draw:id="id36" draw:layer="layout" svg:x1="15.37cm" svg:y1="14.229cm" svg:x2="15.37cm" svg:y2="13.22cm">
+     <text:p/>
+    </draw:line>
+    <draw:frame draw:style-name="gr7" draw:text-style-name="P36" draw:layer="layout" svg:width="9.656cm" svg:height="1.692cm" svg:x="9.172cm" svg:y="18.675cm">
+     <draw:text-box>
+      <text:p xml:id="id37" text:id="id37" text:style-name="P35"><text:span text:style-name="T30">dst = src; <text:s text:c="2"/>(?)</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P38" xml:id="id38" draw:id="id38" draw:layer="layout" svg:width="4.261cm" svg:height="1.375cm" svg:x="22.507cm" svg:y="18.452cm">
+     <text:p text:style-name="P37"><text:span text:style-name="T31">03-strncpy.c</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id32" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id33" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id34" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id35" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id36" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id37" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id38" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
+    <presentation:notes draw:style-name="dp3">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="13" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr15" draw:text-style-name="P39" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page14" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr23" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title">
+     <draw:text-box>
+      <text:p>Strings</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L3">
+       <text:list-item>
+        <text:p><text:span text:style-name="T27">strncat</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T22">Concatena (une) duas strings</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T28">char* strncat (char* dst, char* src, int n)</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" xml:id="id41" draw:id="id41" draw:layer="layout" svg:width="9.822cm" svg:height="2.214cm" svg:x="10.748cm" svg:y="13.839cm">
+     <table:table table:template-name="default" table:use-first-row-styles="true" table:use-banding-rows-styles="true">
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co4"/>
+      <table:table-row table:style-name="ro9" table:default-cell-style-name="ce6">
+       <table:table-cell table:style-name="ce5">
+        <text:p text:style-name="P31">a</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P31">l</text:p>
+       </table:table-cell>
+       <table:table-cell table:style-name="ce7">
+        <text:p text:style-name="P31">o</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P31">\0</text:p>
+       </table:table-cell>
+      </table:table-row>
+     </table:table><draw:image>
+      <office:binary-data>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
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" xml:id="id39" draw:id="id39" draw:layer="layout" svg:width="17.196cm" svg:height="2.214cm" svg:x="8.049cm" svg:y="9.847cm">
+     <table:table table:template-name="default" table:use-first-row-styles="true" table:use-banding-rows-styles="true">
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co4"/>
+      <table:table-column table:style-name="co4"/>
+      <table:table-column table:style-name="co4"/>
+      <table:table-column table:style-name="co4"/>
+      <table:table-row table:style-name="ro9" table:default-cell-style-name="ce6">
+       <table:table-cell table:style-name="ce5">
+        <text:p text:style-name="P31">o</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P31">i</text:p>
+       </table:table-cell>
+       <table:table-cell table:style-name="ce7">
+        <text:p text:style-name="P31">\0</text:p>
+       </table:table-cell>
+       <table:table-cell/>
+       <table:table-cell/>
+       <table:table-cell/>
+       <table:table-cell/>
+      </table:table-row>
+     </table:table><draw:image>
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAD5DAAC4
+       CAAAmAAAAIkAAQAhAAAAAQAbAAAADQCE4P//ftn//wEAAAABAAAAAQAAAAEAAAAAlgABAAIA
+       AAAJAIsAAQACAAAAAwCFAAEABQAAAN3d3QABhAABAAUAAAAAAAAAAG8AAgAuAAAAAQAFAHEf
+       AAB3JgAACCkAAHcmAAAIKQAAHi8AAHEfAAAeLwAAcR8AAHcmAAAAAIwAAQAAAAAAAAIBACAA
+       AAAWAFhURVhUX1BBSU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBGAAAABABAAAAAEABEZWph
+       VnUgU2FucyBNb25vAAAAAAAACAMAAP//AAABAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAAAAAA
+       AAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcQACAB4AAABUIwAA2CsA
+       AAEAAABvAAAAAQABAAAA0gEAAAEAbwAAAgEAEwAAAAkAWFRFWFRfRU9DAAAAAAAAAAAAAgEA
+       EwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9QAAAAAAAAAAAAAgEA
+       HgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAIsAAQACAAAAAwCFAAEABQAAAN3d
+       3QABhAABAAUAAAAAAAAAAG8AAgAuAAAAAQAFAAgpAAB3JgAAnzIAAHcmAACfMgAAHi8AAAgp
+       AAAeLwAACCkAAHcmAAAAAIwAAQAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVfQkVH
+       SU4AAAAAAAAAAIoAAQBGAAAABABAAAAAEABEZWphVnUgU2FucyBNb25vAAAAAAAACAMAAP//
+       AAABAAUAAAAAAAAACQQAAAAAAAAAAQD/AwAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP//
+       //8AhgABAAQAAAAAAAAAcQACAB4AAADrLAAA2CsAAAEAAABpAAAAAQABAAAA0gEAAAEAaQAA
+       AgEAEwAAAAkAWFRFWFRfRU9DAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAA
+       AgEAEwAAAAkAWFRFWFRfRU9QAAAAAAAAAAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9F
+       TkQAAAAAAAAAAIsAAQACAAAAAwCFAAEABQAAAN3d3QABhAABAAUAAAAAAAAAAG8AAgAuAAAA
+       AQAFAJ8yAAB3JgAANjwAAHcmAAA2PAAAHi8AAJ8yAAAeLwAAnzIAAHcmAAAAAIwAAQAAAAAA
+       AAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBGAAAABABAAAAA
+       EABEZWphVnUgU2FucyBNb25vAAAAAAAACAMAAP//AAABAAUAAAAAAAAACQQAAAAAAAAAAQD/
+       AwAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcQACACYAAACZ
+       NQAA2CsAAAIAAABcADAAAAACAAIAAADSAQAAowMAAAIAXAAwAAACAQATAAAACQBYVEVYVF9F
+       T0MAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MBAAAAAAAAAAACAQATAAAACQBYVEVYVF9F
+       T1cBAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9F
+       T1AAAAAAAAAAAAACAQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAiwABAAIA
+       AAADAIUAAQAFAAAA3d3dAAGEAAEABQAAAAAAAAAAbwACAC4AAAABAAUANjwAAHcmAADQRQAA
+       dyYAANBFAAAeLwAANjwAAB4vAAA2PAAAdyYAAAAAjAABAAAAAAAAAgEAIAAAABYAWFRFWFRf
+       UEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIB
+       AB4AAAAUAFhURVhUX1BBSU5UU0hBUEVfRU5EAAAAAAAAAACLAAEAAgAAAAMAhQABAAUAAADd
+       3d0AAYQAAQAFAAAAAAAAAABvAAIALgAAAAEABQDQRQAAdyYAAGpPAAB3JgAAak8AAB4vAADQ
+       RQAAHi8AANBFAAB3JgAAAACMAAEAAAAAAIsAAQACAAAAAwCFAAEABQAAAN3d3QABhAABAAUA
+       AAAAAAAAAG8AAgAuAAAAAQAFAGpPAAB3JgAABFkAAHcmAAAEWQAAHi8AAGpPAAAeLwAAak8A
+       AHcmAAAAAIwAAQAAAAAAiwABAAIAAAADAIUAAQAFAAAA3d3dAAGEAAEABQAAAAAAAAAAbwAC
+       AC4AAAABAAUABFkAAHcmAACeYgAAdyYAAJ5iAAAeLwAABFkAAB4vAAAEWQAAdyYAAAAAjAAB
+       AAAAAACLAAEAAgAAAAMAhAABAAUAAAD///8AAQACAQBuAAAAFQBYUEFUSFNUUk9LRV9TRVFf
+       QkVHSU4AAAAATwAAAAEASQAAAAEAEwAAAAIAZB8AAHcmAACrYgAAdyYAAAABAAIAAAAAAAEA
+       AgAAAAAAAAAAAAAAAABVVVVVVXU6QAAAAQBVVVVVVXU6QAAAAACEAAEABQAAAP///wABhQAB
+       AAUAAAAAAAAAAG0AAwBTAAAAAgBkHwAAdyYAAKtiAAB3JgAABQA6AAAAAQAaAAAAAAAAAAAA
+       AAAAAAAAAAAAAAQAAAAAAAAAAAA6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAHQAA
+       ABMAWFBBVEhTVFJPS0VfU0VRX0VORAAAAAAAAAAAjAABAAAAAACLAAEAAgAAAAMAhAABAAUA
+       AAD///8AAQACAQBuAAAAFQBYUEFUSFNUUk9LRV9TRVFfQkVHSU4AAAAATwAAAAEASQAAAAEA
+       EwAAAAIAZB8AAB4vAACrYgAAHi8AAAABAAIAAAAAAAEAAgAAAAAAAAAAAAAAAABVVVVVVXU6
+       QAAAAQBVVVVVVXU6QAAAAACEAAEABQAAAP///wABhQABAAUAAAAAAAAAAG0AAwBTAAAAAgBk
+       HwAAHi8AAKtiAAAeLwAABQA6AAAAAQAaAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA6
+       QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAHQAAABMAWFBBVEhTVFJPS0VfU0VRX0VO
+       RAAAAAAAAAAAjAABAAAAAACLAAEAAgAAAAMAhAABAAUAAAD///8AAQACAQBuAAAAFQBYUEFU
+       SFNUUk9LRV9TRVFfQkVHSU4AAAAATwAAAAEASQAAAAEAEwAAAAIAcR8AAGomAABxHwAAKy8A
+       AAABAAIAAAAAAAEAAgAAAAAAAAAAAAAAAABVVVVVVXU6QAAAAQBVVVVVVXU6QAAAAACEAAEA
+       BQAAAP///wABhQABAAUAAAAAAAAAAG0AAwBTAAAAAgBxHwAAaiYAAHEfAAArLwAABQA6AAAA
+       AQAaAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA6QAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAgEAHQAAABMAWFBBVEhTVFJPS0VfU0VRX0VORAAAAAAAAAAAjAABAAAAAACLAAEA
+       AgAAAAMAhAABAAUAAAD///8AAQACAQBuAAAAFQBYUEFUSFNUUk9LRV9TRVFfQkVHSU4AAAAA
+       TwAAAAEASQAAAAEAEwAAAAIACCkAAGomAAAIKQAAKy8AAAABAAIAAAAAAAEAAgAAAAAAAAAA
+       AAAAAABVVVVVVXU6QAAAAQBVVVVVVXU6QAAAAACEAAEABQAAAP///wABhQABAAUAAAAAAAAA
+       AG0AAwBTAAAAAgAIKQAAaiYAAAgpAAArLwAABQA6AAAAAQAaAAAAAAAAAAAAAAAAAAAAAAAA
+       AAQAAAAAAAAAAAA6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAHQAAABMAWFBBVEhT
+       VFJPS0VfU0VRX0VORAAAAAAAAAAAjAABAAAAAACLAAEAAgAAAAMAhAABAAUAAAD///8AAQAC
+       AQBuAAAAFQBYUEFUSFNUUk9LRV9TRVFfQkVHSU4AAAAATwAAAAEASQAAAAEAEwAAAAIAnzIA
+       AGomAACfMgAAKy8AAAABAAIAAAAAAAEAAgAAAAAAAAAAAAAAAABVVVVVVXU6QAAAAQBVVVVV
+       VXU6QAAAAACEAAEABQAAAP///wABhQABAAUAAAAAAAAAAG0AAwBTAAAAAgCfMgAAaiYAAJ8y
+       AAArLwAABQA6AAAAAQAaAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA6QAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAgEAHQAAABMAWFBBVEhTVFJPS0VfU0VRX0VORAAAAAAAAAAA
+       jAABAAAAAACLAAEAAgAAAAMAhAABAAUAAAD///8AAQACAQBuAAAAFQBYUEFUSFNUUk9LRV9T
+       RVFfQkVHSU4AAAAATwAAAAEASQAAAAEAEwAAAAIANjwAAGomAAA2PAAAKy8AAAABAAIAAAAA
+       AAEAAgAAAAAAAAAAAAAAAABVVVVVVXU6QAAAAQBVVVVVVXU6QAAAAACEAAEABQAAAP///wAB
+       hQABAAUAAAAAAAAAAG0AAwBTAAAAAgA2PAAAaiYAADY8AAArLwAABQA6AAAAAQAaAAAAAAAA
+       AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEA
+       HQAAABMAWFBBVEhTVFJPS0VfU0VRX0VORAAAAAAAAAAAjAABAAAAAACLAAEAAgAAAAMAhAAB
+       AAUAAAD///8AAQACAQBuAAAAFQBYUEFUSFNUUk9LRV9TRVFfQkVHSU4AAAAATwAAAAEASQAA
+       AAEAEwAAAAIA0EUAAGomAADQRQAAKy8AAAABAAIAAAAAAAEAAgAAAAAAAAAAAAAAAABVVVVV
+       VXU6QAAAAQBVVVVVVXU6QAAAAACEAAEABQAAAP///wABhQABAAUAAAAAAAAAAG0AAwBTAAAA
+       AgDQRQAAaiYAANBFAAArLwAABQA6AAAAAQAaAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA
+       AAA6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAHQAAABMAWFBBVEhTVFJPS0VfU0VR
+       X0VORAAAAAAAAAAAjAABAAAAAACLAAEAAgAAAAMAhAABAAUAAAD///8AAQACAQBuAAAAFQBY
+       UEFUSFNUUk9LRV9TRVFfQkVHSU4AAAAATwAAAAEASQAAAAEAEwAAAAIAak8AAGomAABqTwAA
+       Ky8AAAABAAIAAAAAAAEAAgAAAAAAAAAAAAAAAABVVVVVVXU6QAAAAQBVVVVVVXU6QAAAAACE
+       AAEABQAAAP///wABhQABAAUAAAAAAAAAAG0AAwBTAAAAAgBqTwAAaiYAAGpPAAArLwAABQA6
+       AAAAAQAaAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA6QAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAgEAHQAAABMAWFBBVEhTVFJPS0VfU0VRX0VORAAAAAAAAAAAjAABAAAAAACL
+       AAEAAgAAAAMAhAABAAUAAAD///8AAQACAQBuAAAAFQBYUEFUSFNUUk9LRV9TRVFfQkVHSU4A
+       AAAATwAAAAEASQAAAAEAEwAAAAIABFkAAGomAAAEWQAAKy8AAAABAAIAAAAAAAEAAgAAAAAA
+       AAAAAAAAAABVVVVVVXU6QAAAAQBVVVVVVXU6QAAAAACEAAEABQAAAP///wABhQABAAUAAAAA
+       AAAAAG0AAwBTAAAAAgAEWQAAaiYAAARZAAArLwAABQA6AAAAAQAaAAAAAAAAAAAAAAAAAAAA
+       AAAAAAQAAAAAAAAAAAA6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAHQAAABMAWFBB
+       VEhTVFJPS0VfU0VRX0VORAAAAAAAAAAAjAABAAAAAACLAAEAAgAAAAMAhAABAAUAAAD///8A
+       AQACAQBuAAAAFQBYUEFUSFNUUk9LRV9TRVFfQkVHSU4AAAAATwAAAAEASQAAAAEAEwAAAAIA
+       nmIAAGomAACeYgAAKy8AAAABAAIAAAAAAAEAAgAAAAAAAAAAAAAAAABVVVVVVXU6QAAAAQBV
+       VVVVVXU6QAAAAACEAAEABQAAAP///wABhQABAAUAAAAAAAAAAG0AAwBTAAAAAgCeYgAAaiYA
+       AJ5iAAArLwAABQA6AAAAAQAaAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA6QAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAHQAAABMAWFBBVEhTVFJPS0VfU0VRX0VORAAAAAAA
+       AAAAjAABAAAAAAA=
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P33" xml:id="id40" draw:id="id40" draw:layer="layout" svg:width="3.519cm" svg:height="1.237cm" svg:x="3.556cm" svg:y="10.436cm">
+     <draw:text-box>
+      <text:p text:style-name="P32"><text:span text:style-name="T29">dst</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P33" xml:id="id42" draw:id="id42" draw:layer="layout" svg:width="3.519cm" svg:height="1.237cm" svg:x="6.257cm" svg:y="14.437cm">
+     <draw:text-box>
+      <text:p text:style-name="P32"><text:span text:style-name="T29">src</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:line draw:style-name="gr6" draw:text-style-name="P34" xml:id="id43" draw:id="id43" draw:layer="layout" svg:x1="15.371cm" svg:y1="13.428cm" svg:x2="15.371cm" svg:y2="12.419cm">
+     <text:p/>
+    </draw:line>
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P38" xml:id="id46" draw:id="id46" draw:layer="layout" svg:width="4.261cm" svg:height="1.375cm" svg:x="22.699cm" svg:y="1.522cm">
+     <text:p text:style-name="P37"><text:span text:style-name="T31">04-strncat.c</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="standard" xml:id="id44" draw:id="id44" draw:layer="layout" svg:width="17.196cm" svg:height="2.214cm" svg:x="8.05cm" svg:y="17.748cm">
+     <table:table table:template-name="default" table:use-first-row-styles="true" table:use-banding-rows-styles="true">
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co3"/>
+      <table:table-column table:style-name="co4"/>
+      <table:table-column table:style-name="co4"/>
+      <table:table-column table:style-name="co4"/>
+      <table:table-column table:style-name="co4"/>
+      <table:table-row table:style-name="ro9" table:default-cell-style-name="ce6">
+       <table:table-cell table:style-name="ce5">
+        <text:p text:style-name="P31">o</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:p text:style-name="P31">i</text:p>
+       </table:table-cell>
+       <table:table-cell table:style-name="ce7"/>
+       <table:table-cell>
+        <text:p text:style-name="P31">a</text:p>
+       </table:table-cell>
+       <table:table-cell>
+        <text:list text:style-name="L2">
+         <text:list-header>
+          <text:p text:style-name="P40"><text:span text:style-name="T32">l</text:span></text:p>
+         </text:list-header>
+        </text:list>
+       </table:table-cell>
+       <table:table-cell>
+        <text:list text:continue-numbering="true" text:style-name="L2">
+         <text:list-header>
+          <text:p text:style-name="P40"><text:span text:style-name="T32">o</text:span></text:p>
+         </text:list-header>
+        </text:list>
+       </table:table-cell>
+       <table:table-cell>
+        <text:list text:continue-numbering="true" text:style-name="L2">
+         <text:list-header>
+          <text:p text:style-name="P35"><text:span text:style-name="T32">\0</text:span></text:p>
+         </text:list-header>
+        </text:list>
+       </table:table-cell>
+      </table:table-row>
+     </table:table><draw:image>
+      <office:binary-data>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
+       U0VRX0VORAAAAAAAAAAAjAABAAAAAAA=
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>
+    <draw:line draw:style-name="gr6" draw:text-style-name="P34" xml:id="id45" draw:id="id45" draw:layer="layout" svg:x1="22.735cm" svg:y1="12.82cm" svg:x2="22.735cm" svg:y2="17.184cm">
+     <text:p/>
+    </draw:line>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id39" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id40" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id41" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id42" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id43" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id44" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id45" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id46" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
+    <presentation:notes draw:style-name="dp4">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="14" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr15" draw:text-style-name="P39" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page15" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr23" draw:text-style-name="P24" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true" presentation:user-transformed="true">
      <draw:text-box/>
     </draw:frame>
@@ -3950,19 +4804,20 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="13"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="15"/>
      <draw:frame presentation:style-name="pr22" draw:text-style-name="P7" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm">
       <draw:text-box>
        <text:p/>
       </draw:text-box>
      </draw:frame>
-     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="13" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="15" presentation:class="page"/>
      <draw:frame presentation:style-name="pr15" draw:text-style-name="P7" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page14" draw:style-name="dp5" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
+   <draw:page draw:name="page16" draw:style-name="dp5" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr23" draw:text-style-name="P24" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true" presentation:user-transformed="true">
      <draw:text-box/>
     </draw:frame>
@@ -3974,20 +4829,20 @@
       <text:p>Exercício 6.4</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr24" draw:text-style-name="P24" draw:layer="layout" svg:width="25.199cm" svg:height="14.503cm" svg:x="1.4cm" svg:y="5.514cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr25" draw:text-style-name="P24" draw:layer="layout" svg:width="25.199cm" svg:height="14.503cm" svg:x="1.4cm" svg:y="5.514cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
-        <text:p xml:id="id31" text:id="id31"><text:span text:style-name="T27">Implementar a função </text:span><text:span text:style-name="T28">strlen2</text:span><text:span text:style-name="T27">:</text:span></text:p>
+        <text:p xml:id="id47" text:id="id47"><text:span text:style-name="T33">Implementar a função </text:span><text:span text:style-name="T34">strlen2</text:span><text:span text:style-name="T33">:</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p xml:id="id32" text:id="id32"><text:span text:style-name="T22">Recebe uma string</text:span></text:p>
+          <text:p xml:id="id48" text:id="id48"><text:span text:style-name="T22">Recebe uma string</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p xml:id="id33" text:id="id33"><text:span text:style-name="T22">Retorna a quantidades de caracteres da string</text:span></text:p>
+          <text:p xml:id="id49" text:id="id49"><text:span text:style-name="T22">Retorna a quantidades de caracteres da string</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p xml:id="id34" text:id="id34"><text:span text:style-name="T21">int strlen2 (char* str);</text:span></text:p>
+          <text:p xml:id="id50" text:id="id50"><text:span text:style-name="T21">int strlen2 (char* str);</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -3999,47 +4854,48 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id31" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id47" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id32" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id48" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id33" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id49" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id34" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id50" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
      </anim:seq>
     </anim:par>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="14"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="16"/>
      <draw:frame presentation:style-name="pr22" draw:text-style-name="P7" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm">
       <draw:text-box>
        <text:p/>
       </draw:text-box>
      </draw:frame>
-     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="14" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="16" presentation:class="page"/>
      <draw:frame presentation:style-name="pr15" draw:text-style-name="P7" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page15" draw:style-name="dp5" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
+   <draw:page draw:name="page17" draw:style-name="dp5" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL3T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr23" draw:text-style-name="P24" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true" presentation:user-transformed="true">
      <draw:text-box/>
     </draw:frame>
@@ -4051,31 +4907,31 @@
       <text:p>Exercício 6.5</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr24" draw:text-style-name="P24" draw:layer="layout" svg:width="25.199cm" svg:height="14.503cm" svg:x="1.4cm" svg:y="5.514cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr25" draw:text-style-name="P24" draw:layer="layout" svg:width="25.199cm" svg:height="14.503cm" svg:x="1.4cm" svg:y="5.514cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
-        <text:p xml:id="id35" text:id="id35"><text:span text:style-name="T27">Implementar a função </text:span><text:span text:style-name="T28">strjoin2</text:span><text:span text:style-name="T27">:</text:span></text:p>
+        <text:p xml:id="id51" text:id="id51"><text:span text:style-name="T33">Implementar a função </text:span><text:span text:style-name="T34">strjoin2</text:span><text:span text:style-name="T33">:</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p xml:id="id36" text:id="id36"><text:span text:style-name="T22">Recebe uma string de destino</text:span></text:p>
+          <text:p xml:id="id52" text:id="id52"><text:span text:style-name="T22">Recebe uma string de destino</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p xml:id="id37" text:id="id37"><text:span text:style-name="T22">Recebe duas strings de origem</text:span></text:p>
+          <text:p xml:id="id53" text:id="id53"><text:span text:style-name="T22">Recebe duas strings de origem</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p xml:id="id38" text:id="id38"><text:span text:style-name="T22">Junta em destino as duas strings de origem</text:span></text:p>
+          <text:p xml:id="id54" text:id="id54"><text:span text:style-name="T22">Junta em destino as duas strings de origem</text:span></text:p>
           <text:list>
            <text:list-item>
-            <text:p xml:id="id39" text:id="id39"><text:span text:style-name="T29">(sobrescrevendo o conteúdo de destino, se houver)</text:span></text:p>
+            <text:p xml:id="id55" text:id="id55"><text:span text:style-name="T35">(sobrescrevendo o conteúdo de destino, se houver)</text:span></text:p>
            </text:list-item>
           </text:list>
          </text:list-item>
          <text:list-item>
-          <text:p xml:id="id40" text:id="id40"><text:span text:style-name="T22">Deve usar a </text:span><text:span text:style-name="T23">strlen2</text:span></text:p>
+          <text:p xml:id="id56" text:id="id56"><text:span text:style-name="T22">Deve usar a </text:span><text:span text:style-name="T23">strlen2</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p xml:id="id41" text:id="id41"><text:span text:style-name="T30">void strjoin2 (char* d, char* o1, char* o2);</text:span></text:p>
+          <text:p xml:id="id57" text:id="id57"><text:span text:style-name="T36">void strjoin2 (char* d, char* o1, char* o2);</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -4087,62 +4943,62 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id35" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id51" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id36" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id52" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id37" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id53" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id38" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id54" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id39" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id55" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id40" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id56" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id41" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id57" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
      </anim:seq>
     </anim:par>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="15"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="17"/>
      <draw:frame presentation:style-name="pr22" draw:text-style-name="P7" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm">
       <draw:text-box>
        <text:p/>
       </draw:text-box>
      </draw:frame>
-     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="15" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="17" presentation:class="page"/>
      <draw:frame presentation:style-name="pr15" draw:text-style-name="P7" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
