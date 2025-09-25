@@ -48,3 +48,24 @@ Após remover `I=2`:
 ```
 | 90 | 55 | 70 | 10 |  0 |
 ```
+
+## 3.
+
+- Crie uma função `medias` que recebe um vetor com notas mensais e o modifica
+  com as médias bimestrais:
+
+```
+void medias (int vs[12]);
+```
+
+Considerando o vetor...
+
+```
+{ 70,40,50,70,80,30,60,60,90,50,70,60 }
+```
+
+...a resposta deve ser...
+
+```
+{ 55,60,55,60,70,65 }
+```
