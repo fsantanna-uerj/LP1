@@ -30,3 +30,25 @@ void concatena (char* d, char* o1, char* o2);
 A implementação deve usar a função `tamanho` da questão `3`.
 
 Obviamente, não use a função `strcat`.
+
+## 3.
+
+- Implemente a função `palavras`:
+    - Recebe uma string
+    - Retorna a quantidade de palavras
+
+```
+int palavras (char* str);
+```
+
+Considere que as palavras somente são separadas por espaços.
+
+## 4.
+
+- Implemente a função `substring`:
+    - Recebe duas strings `s1` e `s2`
+    - Retorna se a `s2` é parte de `s1`
+
+```
+int substring (char* s1, char* s2);
+```

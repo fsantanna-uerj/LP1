@@ -48,24 +48,3 @@ Após remover `I=2`:
 ```
 | 90 | 55 | 70 | 10 |  0 |
 ```
-
-
-## 3.
-
-- Crie uma função preenche que receba um array bidimensional `arr` de inteiros
-  com uma dimensão fixa (`LxC`), e preencha o array com `l*c` números lidos do
-  teclado, ex:
-
-```
-void preenche (int arr[L][C], int l, int c);
-```
-
-- Crie uma função `media` que receba um array bidimensional `arr`, a quantidade
-  de linhas `l`, a quantidade de colunas `c`, e retorne a média entre todos os
-  valores do array, ex:
-
-```
-float media (int arr[L][C], int l, int c);
-```
-
-`L` e `C` devem ser quaisquer valores constantes predefinidos.
