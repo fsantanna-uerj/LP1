@@ -37,9 +37,16 @@ Slide 8 - Arquivos
     - A função recebe um arquivo e uma string e escreve a string no arquivo,
       caractere a caractere.
 
+## 6.
+
+- Altere todos os exercícios anteriores para usar o modo binário do `fopen`,
+  ex.:
+    - `fopen("x.txt", "wb")`
+- Houve alguma mudança de comportamento? Explique.
+
 -------------------------------------------------------------------------------
 
-## 6.
+## 7.
 
 Considere a `struct` a seguir:
 
@@ -58,9 +65,9 @@ struct Pessoa {
   o vetor.
     - Crie funções específicas para ler e escrever **uma** `Pessoa` do arquivo.
 
-## 7.
+## 8.
 
-Considere o exercício `6`.
+Considere o exercício `7`.
 
 - Qual é a relação entre o tamanho do nome de uma `Pessoa` e o tamanho final do
   arquivo gravado?
