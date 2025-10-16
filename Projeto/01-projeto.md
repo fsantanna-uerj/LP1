@@ -58,6 +58,7 @@ disciplina.
 
 Cada registro deve estar associado a um ID único crescente (`1`, `2`, ...) que
 também representa a sua posição dentro do arquivo.
+O ID de um registro não deve ser alterado após a sua criação.
 
 O código deve calcular os tamanhos dos registros de modo a caminhar dentro da
 base de forma eficiente.
