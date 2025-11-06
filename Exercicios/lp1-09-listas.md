@@ -3,6 +3,8 @@
 Slide 9 - Listas
 ================
 
+**Não utilize `malloc` nos exercícios a seguir.**
+
 Considere a `struct` a seguir:
 
 ```
