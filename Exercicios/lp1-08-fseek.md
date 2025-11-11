@@ -35,6 +35,6 @@ Como uma restrição didática, a função não pode usar `ftell`.
 ## 3.
 
 Sem usar um loop (`while`, `for`, etc), escreva um programa que adicione o
-caractere `|meio|` exatamente no meio de um arquivo dado (mas desconhecido).
+texto `|meio|` exatamente no meio de um arquivo dado (mas desconhecido).
 
 Dica: Use o modo `r+` para ler e escrever no arquivo.
